@@ -1,0 +1,1502 @@
+,Brand,Bike Model,Model Year,Price (Rs),Finance_Available(Yes/No),City,State
+0,Honda,Honda Shine 125 Drum OBD2,2024.0,95000.0,Yes,Pune, Maharashtra
+1,Aprilia,Aprilia Storm 125,2021.0,60000.0,Yes,"Dadar, Mumbai", Maharashtra
+2,Honda,Honda Shine 125 Drum,2023.0,81000.0,Yes,Bokaro, Jharkhand
+3,Yezdi,Yezdi Roadster Dark,2023.0,165000.0,Yes,Hyderabad, Telangana
+4,Aprilia,Aprilia SR 150,2018.0,61000.0,Yes,East Delhi, Delhi
+5,Suzuki,Suzuki Lets 110,2014.0,17000.0,Yes,"Gajuwaka, Visakhapatnam", Andhra Pradesh
+6,Yamaha,Yamaha R15 V4,2023.0,185000.0,Yes,"Machilipatnam, Krishna", Andhra Pradesh
+7,Hero Cycles,Bicycle Decathlon,2020.0,4000.0,No,Bangalore, Karnataka
+8,Bajaj,Bajaj Avenger Cruise 220 BS6,2017.0,65000.0,Yes,"Bhandup, Mumbai", Maharashtra
+9,TVS,TVS Wego,2017.0,38000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+10,Bajaj,Bajaj Freedom 125 NG04 Disc LED,2025.0,110000.0,Yes,Gwalior, Madhya Pradesh
+11,TVS,TVS Apache RTR 180,2010.0,25000.0,Yes,"Ameerpet, Hyderabad", Telangana
+12,KTM,KTM RC 200 GP,2023.0,155000.0,Yes,New Delhi, Delhi
+13,Bajaj,Bajaj Dominar 400 2025,2025.0,200000.0,Yes,Mumbai, Maharashtra
+14,Ola Electric,Ola S1X Plus,2024.0,60000.0,Yes,"Bellandur, Bangalore", Karnataka
+15,Bajaj,Bajaj Pulsar NS 160,2019.0,60000.0,Yes,Noida, Uttar Pradesh
+16,Hero Cycles,Bicycle Hercules,2015.0,10000.0,No,Pune, Maharashtra
+17,BMW,BMW G 310 R,2021.0,225000.0,Yes,Pune, Maharashtra
+18,Mach City,Mach City Munich 21 Speed,2019.0,8000.0,Yes,"KR Puram, Bangalore", Karnataka
+19,KTM,KTM Duke 390,2022.0,260000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+20,Honda,Honda CBR 250R,2016.0,60000.0,Yes,Khordha, Orissa
+21,Hero Cycles,Bicycle Keysto,2022.0,16000.0,No,Bangalore, Karnataka
+22,Bajaj,Bajaj Pulsar 150 DTSi,2022.0,85000.0,Yes,"Ottappalam, Palakkad", Kerala
+23,Jawa,Jawa Jawa BS6,2019.0,140000.0,Yes,"Secunderabad, Hyderabad", Telangana
+24,TVS,TVS Apache RTR 200 4V,2016.0,60000.0,Yes,Bangalore, Karnataka
+25,Royal Enfield,Royal Enfield Himalayan 452,2024.0,325000.0,Yes,Gurgaon, Haryana
+26,Yamaha,Yamaha FZ-S FI V3,2021.0,95000.0,Yes,Surat, Gujarat
+27,Royal Enfield,Royal Enfield Classic 350,2017.0,90000.0,Yes,"Rajouri Garden, West Delhi", Delhi
+28,Honda,Honda CB Hornet 160R,2017.0,47000.0,Yes,"Jogeshwari, Mumbai", Maharashtra
+29,TVS,TVS XL 100 Heavy Duty i-TOUCHstart,2022.0,45000.0,Yes,"Alandur, Chennai", Tamil Nadu
+30,Royal Enfield,Royal Enfield Meteor 350,2021.0,195000.0,Yes,Hyderabad, Telangana
+31,Honda,Honda Rebel 500,2025.0,635000.0,Yes,Bangalore, Karnataka
+32,Royal Enfield,Royal Enfield Himalayan 450,2024.0,295000.0,Yes,Tirupur, Tamil Nadu
+33,Jawa,Jawa 42 Dual Channel ABS Orion Red,2020.0,110000.0,Yes,"Guindy, Chennai", Tamil Nadu
+34,Bajaj,Bajaj Dominar 400 ABS BS6,2017.0,90000.0,Yes,"Rohini, North West Delhi", Delhi
+35,Honda,Honda Hness Anniversary Edition,2022.0,190000.0,Yes,Bangalore, Karnataka
+36,Ampere Electric,Ampere Reo,2020.0,30000.0,Yes,"Guindy, Chennai", Tamil Nadu
+37,Royal Enfield,Royal Enfield Meteor 350 Stellar 2025,2023.0,214000.0,Yes,Nagpur, Maharashtra
+40,TVS,TVS Apache RTR 160 4V Special Edition,2023.0,100000.0,Yes,"Dombivli, Thane", Maharashtra
+41,Honda,Honda Activa 125,2017.0,35000.0,Yes,Noida, Uttar Pradesh
+42,Bajaj,Bajaj Pulsar 220F BS6,2023.0,145000.0,Yes,"Secunderabad, Hyderabad", Telangana
+43,Bajaj,Bajaj Chetak Electric,2025.0,95000.0,Yes,Pune, Maharashtra
+44,Honda,Honda Activa 5G,2019.0,55000.0,Yes,Bangalore, Karnataka
+45,Yamaha,Yamaha FZ16,2014.0,30000.0,Yes,Jaipur, Rajasthan
+46,Ather Energy,Ather 450,2020.0,55000.0,Yes,Chennai, Tamil Nadu
+47,Bajaj,Bajaj Dominar 400 ABS BS6,2017.0,100000.0,Yes,Pune, Maharashtra
+48,Royal Enfield,Royal Enfield Thunderbird 350,2014.0,80000.0,Yes,Bhubaneshwar, Orissa
+49,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2021.0,150000.0,Yes,Thane, Maharashtra
+50,Hero,Hero Xtreme 125R,2025.0,89999.0,Yes,"Yelahanka, Bangalore", Karnataka
+51,Zelio,Zelio Legender Plus,2025.0,50000.0,Yes,Bhavnagar, Gujarat
+52,TVS,TVS Ronin SS,2024.0,120000.0,Yes,"Bhandup, Mumbai", Maharashtra
+53,Hero,Hero Splendor Plus Xtec,2023.0,65000.0,Yes,Mumbai, Maharashtra
+54,TVS,TVS NTORQ 125,2020.0,45000.0,Yes,Navi Mumbai, Maharashtra
+55,Honda,Honda Activa 5G,2018.0,52000.0,Yes,Pune, Maharashtra
+56,Hero,Hero Maestro,2013.0,38000.0,Yes,Hyderabad, Telangana
+57,Suzuki,Suzuki Intruder 150 FI,2022.0,85000.0,Yes,Bangalore, Karnataka
+58,Bajaj,Bajaj Pulsar NS200,2023.0,110000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+59,Hero,Hero Xtreme 200S,2019.0,50000.0,Yes,Ghaziabad, Uttar Pradesh
+60,Yamaha,Yamaha FZ-S FI V3,2019.0,85000.0,Yes,"Dadar, Mumbai", Maharashtra
+61,KTM,KTM Duke 200 ABS,2023.0,175000.0,Yes,"Dadar, Mumbai", Maharashtra
+62,Bajaj,Bajaj Platina 100 ES,2020.0,55000.0,Yes,Pimpri-Chinchwad, Maharashtra
+63,Hero,Hero Maestro Edge,2018.0,30000.0,Yes,Mirzapur, Uttar Pradesh
+64,TVS,TVS Apache RTR 200 4V 2020,2020.0,80000.0,Yes,Hyderabad, Telangana
+65,Bajaj,Bajaj Pulsar 220F,2016.0,55000.0,Yes,New Delhi, Delhi
+66,Ola Electric,Ola S1 Air 2kWh,2023.0,110000.0,Yes,Bangalore, Karnataka
+67,Hero,Hero Pleasure,2017.0,30000.0,Yes,Patna, Bihar
+68,Jawa,Jawa forty two,2020.0,100000.0,Yes,"Electronic City, Bangalore", Karnataka
+69,TVS,TVS Apache RTR 160,2016.0,65000.0,Yes,Pune, Maharashtra
+70,TVS,TVS Raider SX,2024.0,90000.0,Yes,Ambedkar Nagar, Uttar Pradesh
+71,Yamaha,Yamaha FZ-S FI V3 BS6,2021.0,55000.0,Yes,Jaipur, Rajasthan
+72,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2021.0,170000.0,Yes,"Mariahu, Jaunpur", Uttar Pradesh
+73,Aprilia,Aprilia SR 160 Std ABS,2021.0,80500.0,Yes,Kolkata, West Bengal
+74,Bajaj,Bajaj Dominar 400,2017.0,140000.0,Yes,Medak, Telangana
+75,Harley,Harley Davidson Street 750,2020.0,400000.0,Yes,Vadodara, Gujarat
+76,Yezdi,Yezdi Roadster Dual Tone,2023.0,180000.0,Yes,Pune, Maharashtra
+77,Suzuki,Suzuki Gixxer 150,2025.0,155000.0,Yes,Bangalore, Karnataka
+78,Bajaj,Bajaj Discover 125 ST,2012.0,20000.0,Yes,"Tambaram, Chengalpattu", Tamil Nadu
+79,Bajaj,Bajaj Pulsar RS 200 ABS,2023.0,150000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+80,Royal Enfield,Royal Enfield Classic 350 BS VI,2018.0,145000.0,Yes,Gurgaon, Haryana
+81,Ather Energy,Ather 450X,2022.0,100000.0,Yes,Mumbai, Maharashtra
+82,TVS,TVS Apache RTR 200 4V ABS Race Edition 2.0,2021.0,100000.0,Yes,Thane, Maharashtra
+83,Hero,Hero Splendor iSmart 110,2017.0,26000.0,Yes,Kozhikode, Kerala
+84,Yamaha,Yamaha FZ-S FI Hybrid,2025.0,155000.0,Yes,Mumbai, Maharashtra
+85,TVS,TVS Raider 125,2022.0,65000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+86,Bajaj,Bajaj Pulsar 150 DTSi,2008.0,25000.0,Yes,Pune, Maharashtra
+87,Royal Enfield,Royal Enfield Classic Stealth Black,2022.0,185000.0,Yes,Agra, Uttar Pradesh
+88,Bajaj,Bajaj Avenger Cruise 220,2017.0,60000.0,Yes,Hyderabad, Telangana
+89,KTM,KTM Duke 200 2024,2024.0,200000.0,Yes,"Shenkottai, Tenkasi", Tamil Nadu
+90,Honda,Honda Dream Yuga,2014.0,30000.0,Yes,Tiruchirappalli, Tamil Nadu
+91,Jawa,Jawa 42 Bobber Black Mirror,2024.0,225000.0,Yes,Mau, Uttar Pradesh
+92,BMW,BMW G 310 GS,2022.0,330000.0,Yes,Mumbai, Maharashtra
+93,Royal Enfield,Royal Enfield Hunter 350 Metro,2022.0,147000.0,Yes,Shimoga, Karnataka
+94,Suzuki,Suzuki Access 125,2017.0,17000.0,Yes,Thane, Maharashtra
+95,Benelli,Benelli TNT 600 i,2017.0,500000.0,Yes,Mumbai, Maharashtra
+96,Bajaj,Bajaj CT 100,2015.0,30000.0,Yes,Sri Ganganagar, Rajasthan
+97,Bajaj,Bajaj Dominar 250,2023.0,165000.0,Yes,Thane, Maharashtra
+98,Honda,Honda Activa 3G,2015.0,35000.0,Yes,"Musafirkhana, Amethi", Uttar Pradesh
+99,Suzuki,Suzuki V-Strom 250,2024.0,190000.0,Yes,Thane, Maharashtra
+100,Husqvarna,Husqvarna Svartpilen 250 2020,2020.0,140000.0,Yes,Mumbai, Maharashtra
+101,Royal Enfield,Royal Enfield Himalayan BS VI,2021.0,210000.0,Yes,Hyderabad, Telangana
+102,KTM,KTM Duke 200 ABS,2023.0,170000.0,Yes,New Delhi, Delhi
+103,Hero,Hero Xtreme 160R,2025.0,135000.0,Yes,"Chikodi, Belgaum", Karnataka
+104,Yezdi,Yezdi Adventure Matte,2022.0,145000.0,Yes,"Kuravilangad, Kottayam", Kerala
+105,Hero,Hero Passion Pro 100 Million Edition,2021.0,51000.0,Yes,Jaipur, Rajasthan
+106,Harley,Harley Davidson X 440,2023.0,230000.0,Yes,"Bari Brahmana, Jammu", Jammu Kashmir
+107,Yamaha,Yamaha FZ25,2017.0,75000.0,Yes,"Yelahanka, Bangalore", Karnataka
+109,Honda,Honda Activa,2016.0,40000.0,Yes,"Thiruporur, Chengalpattu", Tamil Nadu
+110,Yamaha,Yamaha FZ16,2016.0,25000.0,Yes,"Gandhidham, Kachchh", Gujarat
+111,TVS,TVS Raider Split Seat,2025.0,95000.0,Yes,Shimoga, Karnataka
+112,Yamaha,Yamaha YZF R15 V3 BS6,2021.0,110000.0,Yes,"Mehrauli, South Delhi", Delhi
+113,Fidato Evtech,Fidato Future 2020,2025.0,45000.0,Yes,"Habra, North 24 Parganas", West Bengal
+115,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022.0,175000.0,Yes,Bangalore, Karnataka
+116,TVS,TVS NTORQ 125,2020.0,67500.0,Yes,"Dadar, Mumbai", Maharashtra
+118,Yamaha,Yamaha FZ,2017.0,54000.0,Yes,"Vaikom, Kottayam", Kerala
+119,Bajaj,Bajaj Pulsar 220F BS6,2020.0,100000.0,Yes,Dehradun, Utarakhand
+120,Royal Enfield,Royal Enfield Scram 411,2023.0,225000.0,Yes,"Banashankari, Bangalore", Karnataka
+121,Bajaj,Bajaj Avenger Street 160,2022.0,85000.0,Yes,Mumbai, Maharashtra
+122,Evtric Motors,Evtric Ride,2023.0,35000.0,Yes,Mumbai, Maharashtra
+123,Honda,Honda CB Twister,2014.0,18000.0,Yes,Faridabad, Haryana
+124,Honda,Honda Activa 125,2016.0,29000.0,Yes,"Mayur Vihar, East Delhi", Delhi
+125,Honda,Honda Activa 6G,2024.0,80000.0,Yes,Thane, Maharashtra
+126,BMW,BMW G 310 R,2022.0,240000.0,Yes,"Sriperumbudur, Kanchipuram", Tamil Nadu
+127,Bajaj,Bajaj Pulsar NS 200 BS6,2022.0,140000.0,Yes,Nellore, Andhra Pradesh
+128,Royal Enfield,Royal Enfield Classic 350,2013.0,100000.0,Yes,"Dhariwal, Gurdaspur", Punjab
+129,Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2021.0,175000.0,Yes,Muzaffarpur, Bihar
+130,Royal Enfield,Royal Enfield Thunderbird X 500,2019.0,200000.0,Yes,"Saidabad, Hyderabad", Telangana
+131,Royal Enfield,Royal Enfield Meteor 350 Stellar,2020.0,175000.0,Yes,West Delhi, Delhi
+132,Royal Enfield,Royal Enfield Interceptor 650 Twin,2020.0,250000.0,Yes,"Mulund East, Mumbai", Maharashtra
+134,TVS,TVS Apache RR 310,2022.0,160000.0,Yes,"Perambur, Chennai", Tamil Nadu
+135,Yamaha,Yamaha FZ25,2018.0,90000.0,Yes,"Andheri East, Mumbai", Maharashtra
+136,Bajaj,Bajaj Discover 125M,2014.0,27000.0,Yes,"Sion, Mumbai", Maharashtra
+137,TVS,TVS Apache RTR 160,2019.0,65000.0,Yes,"Danapur, Patna", Bihar
+139,Hero,Hero Xtreme 160R 2024 Edition,2024.0,145000.0,Yes,"Nampally, Hyderabad", Telangana
+140,Joy e-Bike,Joy e-bike  Wolf,2024.0,52000.0,Yes,Pune, Maharashtra
+141,Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2019.0,95000.0,Yes,"Chembur, Mumbai", Maharashtra
+142,Honda,Honda Activa 5G,2019.0,45000.0,Yes,Maharajganj, Uttar Pradesh
+145,Honda,Honda Activa,2014.0,28000.0,Yes,"Berasia, Bhopal", Madhya Pradesh
+147,TVS,TVS Apache RTR 200 4V,2016.0,45000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+148,Hero,Hero XPulse 200T,2021.0,90000.0,Yes,Belgaum, Karnataka
+149,Royal Enfield,Royal Enfield Bullet Standard 350,2024.0,210000.0,Yes,"Muradnagar, Ghaziabad", Uttar Pradesh
+150,Ather Energy,Ather 450 Plus,2021.0,80000.0,Yes,Chennai, Tamil Nadu
+152,Suzuki,Suzuki Access 125,2019.0,35000.0,Yes,Ahmedabad, Gujarat
+153,Hero,Hero CBZ Xtreme,2012.0,25000.0,Yes,"Mughalsarai, Chandauli", Uttar Pradesh
+154,Hero,Hero Maestro Edge,2016.0,35000.0,Yes,"Garividi, Vizianagaram", Andhra Pradesh
+155,Bajaj,Bajaj Pulsar 150,2011.0,28000.0,Yes,Navi Mumbai, Maharashtra
+156,TVS,TVS Sport,2019.0,40000.0,Yes,Central Delhi, Delhi
+157,TVS,TVS Apache RTR 180,2018.0,55000.0,Yes,Katihar, Bihar
+158,Royal Enfield,Royal Enfield Interceptor,2022.0,350000.0,Yes,"Sion, Mumbai", Maharashtra
+159,Ola Electric,Ola S1 Pro,2022.0,80000.0,Yes,Ranchi, Jharkhand
+160,Royal Enfield,Royal Enfield Meteor 350,2023.0,190000.0,Yes,Fatehgarh Sahib, Punjab
+161,Vida (by Hero),Vida V1 Pro,2023.0,70000.0,Yes,Bangalore, Karnataka
+162,Triumph,Triumph Scrambler 400 X,2023.0,340000.0,Yes,"Jayanagar, Bangalore", Karnataka
+163,Bajaj,Bajaj Discover 100T,2013.0,35000.0,Yes,Pimpri-Chinchwad, Maharashtra
+164,Hero,Hero Glamour Xtec,2023.0,80000.0,Yes,Ernakulam, Kerala
+165,Yamaha,Yamaha FZ FI V2,2017.0,40000.0,Yes,"Defence Colony, South East Delhi", Delhi
+166,Honda,Honda Activa 4G,2018.0,50000.0,Yes,Pimpri-Chinchwad, Maharashtra
+168,Ola Electric,Ola S1 Pro,2022.0,90000.0,Yes,"Yelahanka, Bangalore", Karnataka
+169,TVS,TVS NTORQ 125,2018.0,25000.0,Yes,Ambala, Haryana
+170,Ola Electric,Ola S1 Pro,2022.0,70000.0,Yes,Bangalore, Karnataka
+171,Bajaj,Bajaj Pulsar NS 160,2018.0,49999.0,Yes,"Borivali, Mumbai", Maharashtra
+172,TVS,TVS NTORQ 125 Race Edition,2020.0,70000.0,Yes,"Salboni, Paschim Medinipur", West Bengal
+173,BSA,BSA Gold Star 650,2025.0,400000.0,Yes,Kolkata, West Bengal
+174,TVS,TVS Apache RTR 200 4V ABS,2021.0,90000.0,Yes,Indore, Madhya Pradesh
+175,Aprilia,Aprilia RS 457,2025.0,475000.0,Yes,New Delhi, Delhi
+177,Honda,Honda CB350RS,2022.0,165000.0,Yes,Thane, Maharashtra
+178,TVS,TVS NTORQ 125 Race Edition BS6,2020.0,80000.0,Yes,"Pollachi, Coimbatore", Tamil Nadu
+179,Bajaj,Bajaj Discover 100T,2013.0,17000.0,Yes,"Goregaon, Mumbai", Maharashtra
+180,TVS,TVS Apache RTR 200 4V,2017.0,62000.0,Yes,Thane, Maharashtra
+181,TVS,TVS Jupiter,2018.0,50000.0,Yes,Pune, Maharashtra
+182,Honda,Honda CB Unicorn,2024.0,135000.0,Yes,"Badami, Bagalkot", Karnataka
+183,Royal Enfield,Royal Enfield Classic Gunmetal Grey,2017.0,125000.0,Yes,Pune, Maharashtra
+184,Bajaj,Bajaj Pulsar 180,2013.0,32000.0,Yes,Pune, Maharashtra
+185,Royal Enfield,Royal Enfield Hunter 350 2025,2025.0,165000.0,Yes,"KGF, Kolar", Karnataka
+186,Hero,Hero Electric Optima ER,2022.0,55000.0,Yes,Pune, Maharashtra
+187,TVS,TVS Phoenix,2013.0,25000.0,Yes,"Banashankari, Bangalore", Karnataka
+188,Ola Electric,Ola S1 Pro,2025.0,120000.0,Yes,Pune, Maharashtra
+189,Bajaj,Bajaj Pulsar 150 DTSi,2013.0,32000.0,Yes,Bangalore, Karnataka
+190,Bajaj,Bajaj V15,2016.0,35000.0,Yes,Jaipur, Rajasthan
+191,TVS,TVS Jupiter BS6,2024.0,70000.0,Yes,Ghaziabad, Uttar Pradesh
+192,Bajaj,Bajaj CT110X,2023.0,53000.0,Yes,"Mettur, Salem", Tamil Nadu
+193,Bajaj,Bajaj Avenger Street 160,2019.0,70000.0,Yes,"Amberpet, Hyderabad", Telangana
+194,Yamaha,Yamaha FZ-S FI V2,2018.0,55000.0,Yes,"Whitefield, Bangalore", Karnataka
+195,Yamaha,Yamaha R15M,2022.0,149000.0,Yes,Chennai, Tamil Nadu
+196,Hero,Hero Splendor Plus,2006.0,20000.0,Yes,Pune, Maharashtra
+198,Royal Enfield,Royal Enfield Himalayan 450,2017.0,100000.0,Yes,Gorakhpur, Uttar Pradesh
+199,Hero,Hero Splendor Plus,2024.0,69000.0,Yes,Jaipur, Rajasthan
+200,Royal Enfield,Royal Enfield Thunderbird 500,2016.0,110000.0,Yes,Bangalore, Karnataka
+201,Harley,Harley Davidson Street 750,2015.0,255000.0,Yes,Pune, Maharashtra
+202,Bajaj,Bajaj Avenger Street 220,2016.0,38000.0,Yes,Ernakulam, Kerala
+203,Triumph,Triumph Speed T4,2025.0,245000.0,Yes,"Secunderabad, Hyderabad", Telangana
+204,Ather Energy,Ather 450X,2022.0,80000.0,Yes,Ujjain, Madhya Pradesh
+205,Hero,Hero Karizma XMR,2024.0,130000.0,Yes,Saharanpur, Uttar Pradesh
+207,Honda,Honda CB Unicorn,2017.0,50000.0,Yes,"KR Puram, Bangalore", Karnataka
+208,Jawa,Jawa 42 FJ,2024.0,225000.0,Yes,Pune, Maharashtra
+209,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,100000.0,Yes,"Banashankari, Bangalore", Karnataka
+210,Harley,Harley Davidson Iron 883,2014.0,425000.0,Yes,Pune, Maharashtra
+211,Honda,Honda SP125,2022.0,68000.0,Yes,Jaipur, Rajasthan
+212,Suzuki,Suzuki Access 125 BS6,2022.0,68000.0,Yes,"Egmore, Chennai", Tamil Nadu
+213,BGAUSS,BGauss B8 Lithium Ion,2021.0,50000.0,Yes,"Secunderabad, Hyderabad", Telangana
+214,Ola Electric,Ola S1,2022.0,90000.0,Yes,Hyderabad, Telangana
+215,KTM,KTM RC 390 GP,2023.0,340000.0,Yes,"Paravur, Ernakulam", Kerala
+216,Royal Enfield,Royal Enfield Classic 500,2016.0,70000.0,Yes,Gurgaon, Haryana
+217,Hero,Hero Passion Pro,2010.0,13000.0,Yes,"Sanganer, Jaipur", Rajasthan
+218,Bajaj,Bajaj Pulsar NS125 2022,2022.0,75000.0,Yes,Hyderabad, Telangana
+219,Yamaha,Yamaha FZ-S FI V2,2018.0,59000.0,Yes,Hyderabad, Telangana
+220,Royal Enfield,Royal Enfield Classic Signals Airborne Blue,2019.0,118000.0,Yes,"Yaripora, Kulgam", Jammu Kashmir
+221,Hero,Hero XPulse 200 BS6,2021.0,85000.0,Yes,"Palayamkottai, Tirunelveli", Tamil Nadu
+222,Ola Electric,Ola S1 Pro Gen2,2024.0,90000.0,Yes,Bangalore, Karnataka
+223,Ampere Electric,Ampere Magnus Ex,2023.0,50000.0,Yes,"KR Puram, Bangalore", Karnataka
+225,KTM,KTM RC 125,2021.0,115000.0,Yes,"Chauri Chaura, Gorakhpur", Uttar Pradesh
+226,Yamaha,Yamaha FZS 25,2017.0,65000.0,Yes,"Dadar, Mumbai", Maharashtra
+227,Mahindra,Mahindra Gusto,2016.0,27000.0,Yes,Ghaziabad, Uttar Pradesh
+228,Honda,Honda CB Unicorn 160,2015.0,50000.0,Yes,"Wakad, Pune", Maharashtra
+229,Jawa,Jawa Jawa BS6,2020.0,150000.0,Yes,Amritsar, Punjab
+230,Hero,Hero Maestro Edge 125,2020.0,45000.0,Yes,"Hinjewadi, Pune", Maharashtra
+231,Yamaha,Yamaha FZ-X,2023.0,100000.0,Yes,Gorakhpur, Uttar Pradesh
+232,TVS,TVS Apache RTR 160,2022.0,90000.0,Yes,Bhopal, Madhya Pradesh
+233,Royal Enfield,Royal Enfield Thunderbird 350,2013.0,30000.0,Yes,New Delhi, Delhi
+234,TVS,TVS Apache RTR 160,2014.0,70000.0,Yes,Jalna, Maharashtra
+235,Bajaj,Bajaj Pulsar NS 160 BS6,2020.0,100000.0,Yes,Bhopal, Madhya Pradesh
+236,Honda,Honda CB Unicorn,2020.0,65000.0,Yes,"Mulund, Mumbai", Maharashtra
+237,Ola Electric,Ola S1 Pro Gen2,2024.0,125000.0,Yes,"Ameerpet, Hyderabad", Telangana
+238,Royal Enfield,Royal Enfield Thunderbird 350,2013.0,70000.0,Yes,Lucknow, Uttar Pradesh
+240,Yamaha,Yamaha FZ-X,2021.0,90000.0,Yes,Bhopal, Madhya Pradesh
+241,Jawa,Jawa forty two,2021.0,150000.0,Yes,Allahabad, Uttar Pradesh
+242,Yamaha,Yamaha Fazer,2013.0,37000.0,Yes,Ratnagiri, Maharashtra
+244,TVS,TVS Jupiter,2021.0,60000.0,Yes,Pune, Maharashtra
+245,Oreva Electric,Oreva Alish,2025.0,40000.0,Yes,Gandhinagar, Gujarat
+246,Yamaha,Yamaha FZ-S FI V2,2015.0,38000.0,Yes,"HSR Layout, Bangalore", Karnataka
+247,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,120000.0,Yes,Ghaziabad, Uttar Pradesh
+248,Bajaj,Bajaj Avenger Street 160 BS6,2020.0,70000.0,Yes,"Berhampore, Murshidabad", West Bengal
+249,Yamaha,Yamaha R15M,2022.0,160000.0,Yes,Guntur, Andhra Pradesh
+250,Royal Enfield,Royal Enfield Bullet Electra Twinspark,2017.0,130000.0,Yes,"Borivali, Mumbai", Maharashtra
+251,Honda,Honda Livo Disc,2020.0,55000.0,Yes,Bareilly, Uttar Pradesh
+252,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2024.0,120000.0,Yes,Vijayawada, Andhra Pradesh
+253,Aprilia,Aprilia Tuono 457,2025.0,440000.0,Yes,Pondicherry, Pondicherry
+254,Honda,Honda Activa,2011.0,20000.0,Yes,"Electronic City, Bangalore", Karnataka
+255,Royal Enfield,Royal Enfield Bullet Standard 350,2021.0,150000.0,Yes,"Ghatampur, Kanpur Nagar", Uttar Pradesh
+256,TVS,TVS Sport BS6,2025.0,65000.0,Yes,South East Delhi, Delhi
+257,Benelli,Benelli Imperiale 400 BS6,2021.0,170000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+258,Yamaha,Yamaha YZF R15 V3 BS6,2020.0,115000.0,Yes,Hyderabad, Telangana
+259,Royal Enfield,Royal Enfield Shotgun 650,2024.0,370000.0,Yes,Ahmedabad, Gujarat
+260,Suzuki,Suzuki V-Strom 250,2023.0,230000.0,Yes,"Manesar, Gurgaon", Haryana
+261,Yamaha,Yamaha FZ-S,2011.0,20000.0,Yes,Mumbai, Maharashtra
+262,Hero,Hero Glamour Xtec,2023.0,48000.0,Yes,New Delhi, Delhi
+263,Bajaj,Bajaj Discover 100,2011.0,22000.0,Yes,Indore, Madhya Pradesh
+264,Honda,Honda CB Hornet 160R,2017.0,80000.0,Yes,Kolkata, West Bengal
+265,Vespa,Vespa VXL 150,2021.0,80000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+266,Bajaj,Bajaj Pulsar 220F,2014.0,70000.0,Yes,Bhopal, Madhya Pradesh
+267,Honda,Honda CB Unicorn 160,2017.0,45000.0,Yes,"Malad, Mumbai", Maharashtra
+268,Bajaj,Bajaj Avenger Cruise 220 BS6,2018.0,75000.0,Yes,"Hinjewadi, Pune", Maharashtra
+269,Bajaj,Bajaj Pulsar 220F,2016.0,40000.0,Yes,Navi Mumbai, Maharashtra
+270,Honda,Honda CB350 DLX,2023.0,210000.0,Yes,Bangalore, Karnataka
+271,Hero,Hero Glamour 125 Disc,2017.0,30000.0,Yes,Hyderabad, Telangana
+272,Royal Enfield,Royal Enfield Classic 350,2015.0,70000.0,Yes,Greater Noida, Uttar Pradesh
+273,Yamaha,Yamaha Fazer,2011.0,25000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+274,Ola Electric,Ola S1,2023.0,65000.0,Yes,Jamshedpur, Jharkhand
+275,Bajaj,Bajaj Avenger Cruise 220 BS6,2021.0,110000.0,Yes,North Delhi, Delhi
+276,TVS,TVS Apache RR 310 BTO,2022.0,225000.0,Yes,Kolhapur, Maharashtra
+278,Hero,Hero Super Splendor BS6,2020.0,55000.0,Yes,"Kalyan, Thane", Maharashtra
+279,Yamaha,Yamaha Fazer FI V2,2015.0,55000.0,Yes,Chandrapur, Maharashtra
+280,TVS,TVS Apache RTR 310,2024.0,335000.0,Yes,Mysore, Karnataka
+281,Hero,Hero Electric Optima HX Dual Battery,2021.0,45000.0,Yes,Patna, Bihar
+282,TVS,TVS Star City Plus,2021.0,45000.0,Yes,North West Delhi, Delhi
+283,Suzuki,Suzuki Gixxer 150,2020.0,98000.0,Yes,"Mulund West, Mumbai", Maharashtra
+284,Bajaj,Bajaj Avenger Cruise 220,2010.0,25000.0,Yes,Pune, Maharashtra
+285,Bajaj,Bajaj Avenger Street 220,2019.0,73000.0,Yes,Bargarh, Orissa
+286,Royal Enfield,Royal Enfield Super Meteor 650,2024.0,411000.0,Yes,Aurangabad, Maharashtra
+287,Jawa,Jawa 42 Bobber Black Mirror,2025.0,240000.0,Yes,"Koramangala, Bangalore", Karnataka
+288,TVS,TVS iQube Electric,2023.0,90000.0,Yes,Rajkot, Gujarat
+289,Hero,Hero Passion Plus 2023,2024.0,76000.0,Yes,Jamshedpur, Jharkhand
+290,Hero,Hero Splendor,2012.0,25000.0,Yes,Rewari, Haryana
+291,Honda,Honda CBR 250R ABS,2012.0,64000.0,Yes,Bangalore, Karnataka
+292,Royal Enfield,Royal Enfield Interceptor 650 Twin,2019.0,225000.0,Yes,"Secunderabad, Hyderabad", Telangana
+293,Suzuki,Suzuki V-Strom SX,2023.0,210000.0,Yes,Hyderabad, Telangana
+294,Suzuki,Suzuki Intruder 150,2017.0,50000.0,Yes,Ahmedabad, Gujarat
+295,TVS,TVS Apache RTR 160 4V Special Edition,2022.0,100000.0,Yes,"BTM Layout, Bangalore", Karnataka
+296,Husqvarna,Husqvarna Svartpilen 401 2024,2024.0,300000.0,Yes,Madurai, Tamil Nadu
+297,Honda,Honda Unicorn,2016.0,30000.0,Yes,Hyderabad, Telangana
+298,Bajaj,Bajaj Avenger,2015.0,45000.0,Yes,Bangalore, Karnataka
+299,Bajaj,Bajaj Dominar 400 ABS BS6,2022.0,210000.0,Yes,Bangalore, Karnataka
+300,TVS,TVS Jupiter,2015.0,28000.0,Yes,Bangalore, Karnataka
+301,Hero,Hero Xtreme 160R,2023.0,85000.0,Yes,Anand, Gujarat
+302,TVS,TVS Jupiter,2017.0,40000.0,Yes,Kolkata, West Bengal
+304,Honda,Honda Shine 100,2024.0,55000.0,Yes,"Chembur, Mumbai", Maharashtra
+305,Royal Enfield,Royal Enfield Bullet 350,1998.0,110000.0,Yes,Chennai, Tamil Nadu
+306,Royal Enfield,Royal Enfield Thunderbird 350,2015.0,75000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+307,Hero,Hero CD 100,1999.0,12000.0,Yes,Vadodara, Gujarat
+308,TVS,TVS Raider iGO,2024.0,80000.0,Yes,Allahabad, Uttar Pradesh
+309,Ola Electric,Ola S1 Pro,2022.0,110000.0,Yes,Kozhikode, Kerala
+310,Bajaj,Bajaj Avenger Cruise 220,2018.0,60000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+311,Royal Enfield,Royal Enfield Scram 411,2023.0,195000.0,Yes,Hyderabad, Telangana
+312,Royal Enfield,Royal Enfield Continental GT 535,2014.0,70000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+313,TVS,TVS Apache RTR 160 4V,2018.0,60000.0,Yes,"Adra, Purulia", West Bengal
+314,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2021.0,120000.0,Yes,Pune, Maharashtra
+315,Yamaha,Yamaha YZF R15 V2,2016.0,60000.0,Yes,Rewa, Madhya Pradesh
+316,Honda,Honda CB300F Flex-Fuel,2025.0,169000.0,Yes,Mumbai, Maharashtra
+317,Hero,Hero Splendor Plus,2017.0,45000.0,Yes,Karnal, Haryana
+319,Honda,Honda Activa,2013.0,35000.0,Yes,"Whitefield, Bangalore", Karnataka
+320,Suzuki,Suzuki Gixxer 150,2016.0,50000.0,Yes,"Whitefield, Bangalore", Karnataka
+321,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,180000.0,Yes,Chikballapur, Karnataka
+322,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2021.0,150000.0,Yes,"Mariahu, Jaunpur", Uttar Pradesh
+323,Hero,Hero Xtreme 160R 4V 2024,2025.0,120000.0,Yes,"Sohna, Gurgaon", Haryana
+324,TVS,TVS Apache RTR 160,2023.0,110000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+325,TVS,TVS Apache RTR 180,2014.0,27000.0,Yes,"Electronic City, Bangalore", Karnataka
+326,Ampere Electric,Ampere Reo Li,2018.0,19000.0,Yes,"Bhuvanagiri, Cuddalore", Tamil Nadu
+327,Suzuki,Suzuki Intruder 150,2018.0,45000.0,Yes,Bangalore, Karnataka
+328,Jawa,Jawa 42 Bobber Black Mirror,2023.0,200000.0,Yes,Ghaziabad, Uttar Pradesh
+329,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2021.0,165000.0,Yes,"Kaduthuruthy, Kottayam", Kerala
+330,Royal Enfield,Royal Enfield Thunderbird 500,2018.0,150000.0,Yes,Bangalore, Karnataka
+331,TVS,TVS Apache RTR 160,2011.0,24000.0,Yes,Bangalore, Karnataka
+332,Bajaj,Bajaj Pulsar NS200,2017.0,75000.0,Yes,"Banashankari, Bangalore", Karnataka
+333,Royal Enfield,Royal Enfield Classic Desert Storm,2014.0,95000.0,Yes,Gurgaon, Haryana
+334,TVS,TVS Apache RR 310,2019.0,160000.0,Yes,"Dombivli, Thane", Maharashtra
+335,Yamaha,Yamaha FZ-S FI V3 BS6,2021.0,70000.0,Yes,Howrah, West Bengal
+336,Royal Enfield,Royal Enfield Bullet Standard 350,2020.0,110000.0,Yes,Hosur, Tamil Nadu
+337,Bajaj,Bajaj Platina 100,2008.0,15000.0,Yes,New Delhi, Delhi
+338,KUOTA,KUOTA KALIBUR,2007.0,90000.0,Yes,Hyderabad, Telangana
+339,Royal Enfield,Royal Enfield Hunter 350 Metro,2022.0,90000.0,Yes,"Hinjewadi, Pune", Maharashtra
+340,Royal Enfield,Royal Enfield Bear 650,2025.0,380000.0,Yes,Bhopal, Madhya Pradesh
+341,KTM,KTM Duke 200 2024,2025.0,200000.0,Yes,"Chakan, Pune", Maharashtra
+342,Yamaha,Yamaha MT-15 Ver 2.0,2022.0,140000.0,Yes,Ahmednagar, Maharashtra
+343,Bajaj,Bajaj Pulsar 220 DTSFi,2013.0,59000.0,Yes,"Marathahalli, Bangalore", Karnataka
+344,Jawa,Jawa Perak BS6,2020.0,135000.0,Yes,Meerut, Uttar Pradesh
+346,Triumph,Triumph Speed T4,2024.0,225000.0,Yes,Bhopal, Madhya Pradesh
+347,Royal Enfield,Royal Enfield Himalayan,2016.0,80000.0,Yes,North 24 Parganas, West Bengal
+348,Yamaha,Yamaha FZ-X,2025.0,130000.0,Yes,"Pharenda, Maharajganj", Uttar Pradesh
+349,KTM,KTM RC 200,2018.0,127000.0,Yes,Pratapgarh, Rajasthan
+350,Honda,Honda Activa,2013.0,20000.0,Yes,"Pitampura, North West Delhi", Delhi
+351,Hero,Hero Pleasure,2016.0,30000.0,Yes,Jamshedpur, Jharkhand
+352,Bajaj,Bajaj Chetak Premium Standard,2024.0,110000.0,Yes,Bhopal, Madhya Pradesh
+353,Hero,Hero,2011.0,20000.0,Yes,"Chembur, Mumbai", Maharashtra
+354,KTM,KTM RC 390,2018.0,120000.0,Yes,"Najafgarh, South West Delhi", Delhi
+355,Jawa,Jawa Jawa,2020.0,110000.0,Yes,"Barasat, North 24 Parganas", West Bengal
+356,Hero,Hero Splendor Plus BS6,2024.0,70000.0,Yes,"Shirpur, Dhule", Maharashtra
+357,Hero,Hero Xtreme 125R,2025.0,95000.0,Yes,Chhatarpur, Madhya Pradesh
+358,Bajaj,Bajaj Avenger Street 160,2019.0,35000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+359,Yamaha,Yamaha FZ-S FI V3,2019.0,63000.0,Yes,"Nambiyur, Erode", Tamil Nadu
+360,Yamaha,Yamaha YZF R15 S,2017.0,55000.0,Yes,Pune, Maharashtra
+361,Triumph,Triumph Speed 400,2024.0,230000.0,Yes,New Delhi, Delhi
+362,Bajaj,Bajaj Pulsar NS400Z,2025.0,210000.0,Yes,Tirupur, Tamil Nadu
+363,Royal Enfield,Royal Enfield Super Meteor 650,2024.0,420000.0,Yes,"Hoskote, Bangalore", Karnataka
+365,Royal Enfield,Royal Enfield Himalayan 450,2024.0,320000.0,Yes,"Ameerpet, Hyderabad", Telangana
+366,Honda,Honda Activa 4G,2017.0,30000.0,Yes,Kolkata, West Bengal
+367,Royal Enfield,Royal Enfield Bullet Electra,2003.0,50000.0,Yes,Mumbai, Maharashtra
+368,Yamaha,Yamaha R15M,2023.0,140000.0,Yes,New Delhi, Delhi
+369,TVS,TVS Jupiter 125 SmartXonnect,2025.0,90000.0,Yes,"Badshahpur, Gurgaon", Haryana
+370,Ola Electric,Ola S1 Air,2022.0,72000.0,Yes,"Electronic City, Bangalore", Karnataka
+371,Jawa,Jawa 42 Bobber Dual Channel ABS,2020.0,85000.0,Yes,Salem, Tamil Nadu
+372,Hero Cycles,Bicycle Schnell,2022.0,18000.0,No,"Velachery, Chennai", Tamil Nadu
+373,Bajaj,Bajaj Pulsar NS125 BS6,2025.0,100000.0,Yes,"Noida, Gautam Buddha Nagar", Uttar Pradesh
+374,Revolt Motors,Revolt RV400 Stealth Black Limited Edition,2023.0,80000.0,Yes,"Dammaiguda, Medchal-Malkajgiri", Telangana
+375,Yamaha,Yamaha MT-15,2023.0,120000.0,Yes,Noida, Uttar Pradesh
+376,TVS,TVS Raider 125,2023.0,65000.0,Yes,Jabalpur, Madhya Pradesh
+377,Honda,Honda Hornet 2.0,2020.0,80000.0,Yes,"Electronic City, Bangalore", Karnataka
+378,Honda,Honda Activa 6G Dlx,2023.0,68000.0,Yes,Faridabad, Haryana
+379,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2022.0,190000.0,Yes,Pondicherry, Pondicherry
+380,Royal Enfield,Royal Enfield Bullet 350,2019.0,145000.0,Yes,Ballia, Uttar Pradesh
+381,TVS,TVS Wego,2014.0,25000.0,Yes,New Delhi, Delhi
+383,Suzuki,Suzuki Gixxer SF,2015.0,25000.0,Yes,Thane, Maharashtra
+384,Vespa,Vespa VXL 125,2013.0,52000.0,Yes,Chennai, Tamil Nadu
+385,Bajaj,Bajaj Avenger Street 150,2016.0,42000.0,Yes,Lucknow, Uttar Pradesh
+386,Husqvarna,Husqvarna Vitpilen 250 2020,2020.0,155000.0,Yes,Ahmedabad, Gujarat
+387,Bajaj,Bajaj Avenger Street 160,2016.0,55000.0,Yes,New Delhi, Delhi
+388,Bajaj,Bajaj Pulsar RS 200 BS6,2022.0,180000.0,Yes,Belgaum, Karnataka
+389,Jawa,Jawa forty two,2020.0,135000.0,Yes,"Dwarka, South West Delhi", Delhi
+390,Royal Enfield,Royal Enfield Classic 350,2023.0,165000.0,Yes,Kolkata, West Bengal
+391,Jawa,Jawa 42 FJ,2025.0,185000.0,Yes,East Delhi, Delhi
+393,Yamaha,Yamaha Fascino,2016.0,35000.0,Yes,Bangalore, Karnataka
+394,Hero,Hero Destini 125,2024.0,70000.0,Yes,"Electronic City, Bangalore", Karnataka
+395,TVS,TVS Jupiter,2017.0,40000.0,Yes,"HSR Layout, Bangalore", Karnataka
+396,Bajaj,Bajaj Freedom 125 NG04 Drum,2024.0,65000.0,Yes,"Phulwari Sharif, Patna", Bihar
+397,Hero,Hero Xtreme Sports,2016.0,25000.0,Yes,"Mughalsarai, Chandauli", Uttar Pradesh
+398,Harley,Harley Davidson X440 Vivid,2023.0,225000.0,Yes,"Whitefield, Bangalore", Karnataka
+399,Suzuki,Suzuki Gixxer SF 250 BS6,2024.0,180000.0,Yes,Vadodara, Gujarat
+400,Honda,Honda CB Shine,2013.0,28999.0,Yes,Ratlam, Madhya Pradesh
+401,Hero,Hero Passion Pro BS6,2021.0,58000.0,Yes,"Chakeri, Kanpur", Uttar Pradesh
+402,Royal Enfield,Royal Enfield Classic 350,2015.0,85000.0,Yes,Mandi, Himachal Pradesh
+403,TVS,TVS Jupiter 125,2022.0,80000.0,Yes,"Ameerpet, Hyderabad", Telangana
+404,Revolt Motors,Revolt RV 400,2020.0,60000.0,Yes,Coimbatore, Tamil Nadu
+405,KTM,KTM Duke 390 2022,2022.0,250000.0,Yes,Lucknow, Uttar Pradesh
+406,WaltX,WaltX Spark Spark 7,2023.0,40000.0,Yes,Lucknow, Uttar Pradesh
+407,Ola Electric,Ola S1,2023.0,90000.0,Yes,"Banashankari, Bangalore", Karnataka
+408,Bajaj,Bajaj Avenger Street 150,2018.0,38000.0,Yes,Ahmedabad, Gujarat
+409,BMW,BMW G 310 RR,2023.0,220000.0,Yes,"Shibpur, Howrah", West Bengal
+410,Yamaha,Yamaha Aerox 155,2024.0,130000.0,Yes,Noida, Uttar Pradesh
+412,Suzuki,Suzuki Gixxer SF 250 BS6,2023.0,172000.0,Yes,Thane, Maharashtra
+413,Royal Enfield,Royal Enfield Continental GT 535,2017.0,110000.0,Yes,"Dombivli, Thane", Maharashtra
+414,Hero,Hero Achiever,2020.0,45000.0,Yes,Varanasi, Uttar Pradesh
+415,Bajaj,Bajaj Pulsar 150 DTSi,2021.0,90000.0,Yes,Thane, Maharashtra
+416,Bajaj,Bajaj Avenger 220 DTS-i,2013.0,55000.0,Yes,Chennai, Tamil Nadu
+417,Yamaha,Yamaha MT-15,2024.0,160000.0,Yes,Mumbai, Maharashtra
+418,TVS,TVS Sport BS6,2022.0,40000.0,Yes,Gandhinagar, Gujarat
+419,Royal Enfield,Royal Enfield Continental GT 650 Twin,2020.0,280000.0,Yes,Tirupati, Andhra Pradesh
+420,Yezdi,Yezdi Roadster Dual Tone,2024.0,145000.0,Yes,Coimbatore, Tamil Nadu
+421,Honda,Honda CB Trigger,2014.0,45000.0,Yes,"Narkatiaganj, West Champaran", Bihar
+422,Honda,Honda Hness CB350 DLX Pro,2024.0,180000.0,Yes,Lucknow, Uttar Pradesh
+423,Royal Enfield,Royal Enfield Meteor 350 Stellar,2021.0,160000.0,Yes,Pondicherry, Pondicherry
+424,Bajaj,Bajaj Pulsar NS 160,2019.0,55000.0,Yes,Bhopal, Madhya Pradesh
+425,Yamaha,Yamaha Alpha,2015.0,25000.0,Yes,Cuddalore, Tamil Nadu
+426,Royal Enfield,Royal Enfield Classic 350,2014.0,135000.0,Yes,Gorakhpur, Uttar Pradesh
+427,Royal Enfield,Royal Enfield Guerrilla 450,2024.0,250000.0,Yes,Hanumangarh, Rajasthan
+428,Honda,Honda Activa 4G,2015.0,40000.0,Yes,"Berasia, Bhopal", Madhya Pradesh
+429,Royal Enfield,Royal Enfield Classic Signals Airborne Blue,2019.0,180000.0,Yes,Indore, Madhya Pradesh
+430,Royal Enfield,Royal Enfield Thunderbird 350,2015.0,100000.0,Yes,Pune, Maharashtra
+431,Royal Enfield,Royal Enfield Scram 411,2022.0,218000.0,Yes,Indore, Madhya Pradesh
+432,Honda,Honda Unicorn Dazzler,2012.0,15000.0,Yes,Tirupati, Andhra Pradesh
+433,Yamaha,Yamaha Fascino,2017.0,35000.0,Yes,Jaipur, Rajasthan
+435,Suzuki,Suzuki Access 125 CBS,2020.0,60000.0,Yes,Tiruchirappalli, Tamil Nadu
+436,Yezdi,Yezdi Roadster Dark,2022.0,170000.0,Yes,Navi Mumbai, Maharashtra
+437,Bajaj,Bajaj Pulsar 150 DTSi,2013.0,30000.0,Yes,"Baramati, Pune", Maharashtra
+438,Hero,Hero Maestro Edge 110 BS6,2018.0,43000.0,Yes,Noida, Uttar Pradesh
+439,Hero,Hero Pleasure Plus BS6,2019.0,55000.0,Yes,Pimpri-Chinchwad, Maharashtra
+440,Bajaj,Bajaj Avenger Cruise 220,2021.0,120000.0,Yes,Bhagalpur, Bihar
+441,Royal Enfield,Royal Enfield Scram 411,2022.0,180000.0,Yes,"Kandivali, Mumbai", Maharashtra
+442,Ducati,Ducati Multistrada 950,2017.0,1000000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+443,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022.0,150000.0,Yes,"Ameerpet, Hyderabad", Telangana
+444,Bajaj,Bajaj Dominar 400 ABS BS6,2018.0,120000.0,Yes,West Delhi, Delhi
+446,Honda,Honda Activa 3G,2015.0,20500.0,Yes,South Delhi, Delhi
+447,Bajaj,Bajaj Avenger 220 DTS-i,2012.0,22000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+448,Yamaha,Yamaha YZF R15 V3,2022.0,110000.0,Yes,Faridabad, Haryana
+449,Harley,Harley Davidson Street 750,2015.0,260000.0,Yes,"Wakad, Pune", Maharashtra
+450,Suzuki,Suzuki Gixxer SF,2015.0,45000.0,Yes,Khammam, Telangana
+451,TVS,TVS Apache RTR 200 4V ABS,2017.0,80000.0,Yes,Chandrapur, Maharashtra
+452,Royal Enfield,Royal Enfield Interceptor 650 Twin,2022.0,270000.0,Yes,Khammam, Telangana
+454,Honda,Honda CBF Stunner,2010.0,12000.0,Yes,Bangalore, Karnataka
+455,Jawa,Jawa forty two BS6,2020.0,140000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+456,Bajaj,Bajaj Dominar 400 Disc,2020.0,160000.0,Yes,Sambalpur, Orissa
+457,Honda,Honda Hness CB350 DLX Pro,2022.0,160000.0,Yes,Panchkula, Haryana
+458,Ola Electric,Ola S1 Pro Gen2,2024.0,99500.0,Yes,Mumbai, Maharashtra
+459,BMW,BMW G 310 GS,2021.0,250000.0,Yes,"Sion, Mumbai", Maharashtra
+461,TVS,TVS NTORQ 125,2019.0,40000.0,Yes,Kolkata, West Bengal
+462,Yamaha,Yamaha FZ-X,2024.0,130000.0,Yes,"Marthandam, Kanyakumari", Tamil Nadu
+464,Hero,Hero Glamour PGM Fi,2015.0,55000.0,Yes,Ranchi, Jharkhand
+465,Jawa,Jawa forty two,2019.0,110000.0,Yes,Thane, Maharashtra
+466,Hero,Hero Splendor iSmart,2017.0,35000.0,Yes,Allahabad, Uttar Pradesh
+467,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022.0,150000.0,Yes,New Delhi, Delhi
+468,Yamaha,Yamaha Fazer,2011.0,40000.0,Yes,"Shaikpet, Hyderabad", Telangana
+469,Aprilia,Aprilia SR 160,2022.0,59999.0,Yes,Kolkata, West Bengal
+470,Royal Enfield,Royal Enfield Classic 350,2016.0,140000.0,Yes,Nashik, Maharashtra
+471,Honda,Honda Activa 5G,2020.0,60000.0,Yes,"Ulhasnagar, Thane", Maharashtra
+472,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,150000.0,Yes,Surat, Gujarat
+473,Honda,Honda SP125,2021.0,73000.0,Yes,"Armoor, Nizamabad", Telangana
+474,Yamaha,Yamaha Fazer,2011.0,45000.0,Yes,Bhopal, Madhya Pradesh
+475,TVS,TVS Jupiter 125,2025.0,99000.0,Yes,Tiruchirappalli, Tamil Nadu
+476,Bajaj,Bajaj Discover 100 DTS-Si,2011.0,22000.0,Yes,Indore, Madhya Pradesh
+477,Royal Enfield,Royal Enfield Thunderbird 350,2016.0,110500.0,Yes,Pimpri-Chinchwad, Maharashtra
+478,Royal Enfield,Royal Enfield Himalayan 2021,2021.0,250000.0,Yes,Bangalore, Karnataka
+479,KTM,KTM Duke 200 ABS,2020.0,165000.0,Yes,Hyderabad, Telangana
+480,Yezdi,Yezdi Adventure Matte,2022.0,225000.0,Yes,"Kankavli, Sindhudurg", Maharashtra
+481,Bajaj,Bajaj Pulsar NS400Z,2024.0,195000.0,Yes,Gurgaon, Haryana
+482,Odysse Electric,Odysse Hawk Plus,2021.0,45000.0,Yes,"Borivali, Mumbai", Maharashtra
+483,Yamaha,Yamaha R15M,2022.0,155000.0,Yes,Bangalore, Karnataka
+484,Royal Enfield,Royal Enfield Meteor 350 Stellar,2023.0,199000.0,Yes,"Whitefield, Bangalore", Karnataka
+485,Bajaj,Bajaj Dominar 400 ABS BS6,2023.0,230000.0,Yes,Coimbatore, Tamil Nadu
+486,Hero,Hero Super Splendor,2011.0,25000.0,Yes,"Andheri East, Mumbai", Maharashtra
+487,Bajaj,Bajaj Pulsar NS125 BS6,2021.0,65000.0,Yes,"Barasat, North 24 Parganas", West Bengal
+488,Bajaj,Bajaj Discover 125 ST,2013.0,38000.0,Yes,"Etmadpur, Agra", Uttar Pradesh
+489,Hero,Hero XPulse 200,2024.0,150000.0,Yes,"KR Puram, Bangalore", Karnataka
+490,Yamaha,Yamaha FZ FI V3 BS6,2022.0,85000.0,Yes,"Hoskote, Bangalore", Karnataka
+491,Honda,Honda CB Shine,2013.0,30000.0,Yes,"Bagnan, Howrah", West Bengal
+492,Ola Electric,Ola S1 Pro,2023.0,88000.0,Yes,Chhindwara, Madhya Pradesh
+493,Aprilia,Aprilia SR 125,2023.0,100000.0,Yes,Pune, Maharashtra
+494,Okaya EV,Okaya Freedum LI-2,2023.0,50000.0,Yes,"Rohini, North West Delhi", Delhi
+495,Vida (by Hero),Vida V1 Pro,2024.0,110000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+496,Jawa,Jawa Perak BS6,2020.0,190000.0,Yes,Patiala, Punjab
+497,Jawa,Jawa Midnight Grey,2022.0,220000.0,Yes,Kakinada, Andhra Pradesh
+498,Bajaj,Bajaj Pulsar 220F,2013.0,25000.0,Yes,Vadodara, Gujarat
+499,Hero,Hero HF Deluxe BS6,2023.0,67000.0,Yes,"Chandabali, Bhadrak", Orissa
+500,Bajaj,Bajaj Chetak 3502 Standard,2025.0,120000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+501,KTM,KTM Duke 250,2021.0,250000.0,Yes,Chennai, Tamil Nadu
+502,Hero,Hero Passion X Pro,2016.0,20000.0,Yes,Nagapattinam, Tamil Nadu
+503,Royal Enfield,Royal Enfield Super Meteor 650,2023.0,395000.0,Yes,Varanasi, Uttar Pradesh
+504,Honda,Honda Aviator,2011.0,25000.0,Yes,"Wakad, Pune", Maharashtra
+505,Bajaj,Bajaj Avenger Street 150,2017.0,45000.0,Yes,Navi Mumbai, Maharashtra
+506,Bajaj,Bajaj Dominar 400,2019.0,120000.0,Yes,"Mehrauli, South Delhi", Delhi
+507,Yamaha,Yamaha YZF R15 V3,2018.0,90000.0,Yes,Lucknow, Uttar Pradesh
+508,Royal Enfield,Royal Enfield Himalayan 450,2023.0,240000.0,Yes,Thoothukudi, Tamil Nadu
+509,Suzuki,Suzuki Access,2011.0,15000.0,Yes,"KR Puram, Bangalore", Karnataka
+510,Royal Enfield,Royal Enfield Classic 350,2016.0,90000.0,Yes,"Model Town, North Delhi", Delhi
+511,KTM,KTM 250 Adventure,2023.0,215000.0,Yes,"Mettupalayam, Coimbatore", Tamil Nadu
+512,Bajaj,Bajaj Dominar 400,2017.0,100000.0,Yes,Mysore, Karnataka
+514,Suzuki,Suzuki Access 125 BS6,2018.0,55000.0,Yes,Bangalore, Karnataka
+515,Yamaha,Yamaha FZ-S,2014.0,35000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+516,Honda,Honda Unicorn,2011.0,20000.0,Yes,Mysore, Karnataka
+517,TVS,TVS Jupiter,2024.0,70000.0,Yes,South West Delhi, Delhi
+518,Yamaha,Yamaha Saluto 125,2017.0,25000.0,Yes,"Farrukhnagar, Gurgaon", Haryana
+519,Bajaj,Bajaj CT 100 ES,2020.0,40000.0,Yes,Pune, Maharashtra
+520,TVS,TVS Apache RTR 310,2023.0,300000.0,Yes,"Devanahalli, Bangalore", Karnataka
+521,Honda,Honda CB Unicorn 160,2016.0,25000.0,Yes,Navi Mumbai, Maharashtra
+522,Royal Enfield,Royal Enfield Classic Gunmetal Grey,2018.0,120000.0,Yes,Purulia, West Bengal
+523,Bajaj,Bajaj Pulsar 180,2011.0,20000.0,Yes,New Delhi, Delhi
+524,Honda,Honda Activa,2019.0,55000.0,Yes,Chennai, Tamil Nadu
+525,Royal Enfield,Royal Enfield Thunderbird 500,2015.0,115000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+526,Royal Enfield,Royal Enfield Thunderbird X 350,2018.0,95000.0,Yes,"Dombivli, Thane", Maharashtra
+527,Hero,Hero CBZ Xtreme,2012.0,40000.0,Yes,"Hadapsar, Pune", Maharashtra
+528,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,95000.0,Yes,"Amberpet, Hyderabad", Telangana
+529,Honda,Honda Activa 6G,2022.0,60000.0,Yes,Hyderabad, Telangana
+530,KTM,KTM Duke 200,2021.0,120000.0,Yes,Pune, Maharashtra
+531,Honda,Honda SP125,2024.0,90000.0,Yes,Hyderabad, Telangana
+532,Honda,Honda Activa 6G,2020.0,48500.0,Yes,West Delhi, Delhi
+533,TVS,TVS NTORQ 125 Super Soldier Edition,2021.0,68000.0,Yes,Kanpur Nagar, Uttar Pradesh
+534,Jawa,Jawa Jawa,2020.0,100000.0,Yes,Kolkata, West Bengal
+535,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2020.0,180000.0,Yes,Allahabad, Uttar Pradesh
+536,Bajaj,Bajaj Avenger Street 160,2021.0,75000.0,Yes,Pune, Maharashtra
+537,Bajaj,Bajaj Freedom 125 NG04 Drum LED,2024.0,95000.0,Yes,New Delhi, Delhi
+538,Royal Enfield,Royal Enfield Bullet Standard 350,2023.0,190000.0,Yes,"Nelamangala, Bangalore", Karnataka
+539,Bajaj,Bajaj Discover 100M,2015.0,35000.0,Yes,Lucknow, Uttar Pradesh
+540,Bajaj,Bajaj Avenger Cruise 220,2021.0,110000.0,Yes,Hyderabad, Telangana
+541,Ola Electric,Ola S1 Air,2023.0,100000.0,Yes,Nashik, Maharashtra
+543,Bajaj,Bajaj Pulsar 135LS,2016.0,65000.0,Yes,"Sankarapuram, Kallakurichi", Tamil Nadu
+544,Royal Enfield,Royal Enfield 2023 Interceptor 650,2024.0,370000.0,Yes,Jodhpur, Rajasthan
+545,TVS,TVS Jupiter Classic,2018.0,35000.0,Yes,Mumbai, Maharashtra
+546,Honda,Honda Activa,2011.0,20000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+547,Honda,Honda Dream Yuga,2016.0,39700.0,Yes,"Nelamangala, Bangalore", Karnataka
+548,Bajaj,Bajaj Avenger Street 220,2018.0,70000.0,Yes,"Malad, Mumbai", Maharashtra
+549,Yamaha,Yamaha SZ-R,2012.0,45000.0,Yes,"Baruipur, South 24 Parganas", West Bengal
+550,BGAUSS,BGauss C12i Max,2023.0,65000.0,Yes,South East Delhi, Delhi
+552,Hero,Hero Passion Pro,2017.0,40000.0,Yes,"Dombivli, Thane", Maharashtra
+553,Yamaha,Yamaha FZ16,2018.0,60000.0,Yes,Bangalore, Karnataka
+554,Yamaha,Yamaha FZ25,2019.0,90000.0,Yes,"Santacruz, Mumbai", Maharashtra
+555,Bajaj,Bajaj Pulsar 135LS,2017.0,40000.0,Yes,"Hadapsar, Pune", Maharashtra
+556,Aprilia,Aprilia SR 150,2018.0,52000.0,Yes,Mangalore, Karnataka
+557,Royal Enfield,Royal Enfield  Diesel bullet 1983 model,1983.0,190000.0,Yes,Bangalore, Karnataka
+558,TVS,TVS Star City,2009.0,10000.0,Yes,Chennai, Tamil Nadu
+559,TVS,TVS Apache RTR 200 4V 2022,2022.0,95000.0,Yes,Palghar, Maharashtra
+560,Yamaha,Yamaha Fascino,2017.0,35000.0,Yes,Kolkata, West Bengal
+561,Honda,Honda Activa 6G,2021.0,70000.0,Yes,Srinagar, Jammu Kashmir
+562,Triumph,Triumph Speed 400 2025,2024.0,240000.0,Yes,"Badvel, Kadapa", Andhra Pradesh
+563,Hero,Hero Glamour X 125 Disc,2022.0,55000.0,Yes,"Bellandur, Bangalore", Karnataka
+564,Bajaj,Bajaj Pulsar 200 NS ABS,2013.0,40000.0,Yes,Pune, Maharashtra
+565,Suzuki,Suzuki V-Strom 650XT ABS BS6,2023.0,950000.0,Yes,"HSR Layout, Bangalore", Karnataka
+566,Aprilia,Aprilia RS 457,2024.0,450000.0,Yes,Bangalore, Karnataka
+567,TVS,TVS iQube Electric,2020.0,70000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+568,Royal Enfield,Royal Enfield Classic 350,2016.0,80000.0,Yes,Ghaziabad, Uttar Pradesh
+569,Aprilia,Aprilia SR 150,2020.0,65000.0,Yes,"Domjur, Howrah", West Bengal
+570,Hero,Hero Passion Pro i3s,2017.0,45000.0,Yes,"Ameenpur, Sangareddy", Telangana
+571,Ather Energy,Ather 450X,2021.0,75000.0,Yes,Mumbai, Maharashtra
+572,TVS,TVS Raider 125,2023.0,95000.0,Yes,Ghaziabad, Uttar Pradesh
+574,Royal Enfield,Royal Enfield Interceptor 650 Twin,2022.0,275000.0,Yes,Chennai, Tamil Nadu
+575,Honda,Honda CB350 DLX Pro,2024.0,220000.0,Yes,Mumbai, Maharashtra
+576,Royal Enfield,Royal Enfield Meteor 350 Fireball,2022.0,170000.0,Yes,"Hadapsar, Pune", Maharashtra
+577,Honda,Honda Activa,2024.0,75000.0,Yes,"Chinhat, Lucknow", Uttar Pradesh
+578,Yamaha,Yamaha R15 V4,2023.0,160000.0,Yes,Chennai, Tamil Nadu
+579,Royal Enfield,Royal Enfield Classic 350,2016.0,85000.0,Yes,"Delhi Cantonment, New Delhi", Delhi
+580,BMW,BMW G 310 RR,2023.0,270000.0,Yes,Rajkot, Gujarat
+581,Triumph,Triumph Speed 400,2023.0,199000.0,Yes,South Delhi, Delhi
+582,Hero,Hero HF 100,2021.0,39000.0,Yes,New Delhi, Delhi
+583,Royal Enfield,Royal Enfield Interceptor 650 Twin,2024.0,400000.0,Yes,"Jayanagar, Bangalore", Karnataka
+584,Bajaj,Bajaj CT 110 ES,2020.0,40000.0,Yes,Pilibhit, Uttar Pradesh
+585,Triumph,Triumph Speed 400,2025.0,270000.0,Yes,Pimpri-Chinchwad, Maharashtra
+587,Hero,Hero CBZ Xtreme,2012.0,25000.0,Yes,Kolkata, West Bengal
+588,Hero,Hero Xoom LX,2023.0,60000.0,Yes,Khagaria, Bihar
+589,Honda,Honda CB350 DLX,2021.0,180000.0,Yes,Pune, Maharashtra
+590,Honda,Honda CB300R,2024.0,180000.0,Yes,Hyderabad, Telangana
+591,TVS,TVS Wego,2014.0,18000.0,Yes,Prayagraj, Uttar Pradesh
+592,Revolt Motors,Revolt RV400 Eclipse Red,2020.0,35000.0,Yes,"Model Town, North Delhi", Delhi
+593,Hero,Hero Splendor Plus IBS i3s,2022.0,67000.0,Yes,Anand, Gujarat
+594,TVS,TVS NTORQ 125 Race Edition,2021.0,65000.0,Yes,Surat, Gujarat
+595,Bajaj,Bajaj Pulsar NS 160 BS6,2021.0,90000.0,Yes,"Saidabad, Hyderabad", Telangana
+596,Bajaj,Bajaj Pulsar NS125 BS6,2024.0,105000.0,Yes,"Jansath, Muzaffarnagar", Uttar Pradesh
+597,Royal Enfield,Royal Enfield Thunderbird,2016.0,120000.0,Yes,Navi Mumbai, Maharashtra
+598,Benelli,Benelli TRK 251,2023.0,210000.0,Yes,"Valapady, Salem", Tamil Nadu
+599,Royal Enfield,Royal Enfield Thunderbird 350,2019.0,110000.0,Yes,Pune, Maharashtra
+600,Ather Energy,Ather 450X Gen 3,2023.0,125000.0,Yes,Bangalore, Karnataka
+601,Yamaha,Yamaha MT-15 BS6,2024.0,175000.0,Yes,Kurnool, Andhra Pradesh
+602,Bajaj,Bajaj Dominar 400 Disc,2019.0,95000.0,Yes,"Electronic City, Bangalore", Karnataka
+605,Suzuki,Suzuki GS 150R,2025.0,130000.0,Yes,"Karawal Nagar, North East Delhi", Delhi
+606,Bajaj,Bajaj Pulsar 150 DTSi,2015.0,30000.0,Yes,Thane, Maharashtra
+607,QJ,QJ Motor SRC500,2024.0,225000.0,Yes,"Hebbal, Bangalore", Karnataka
+608,Royal Enfield,Royal Enfield Super Meteor 650,2023.0,380000.0,Yes,Indore, Madhya Pradesh
+609,Royal Enfield,Royal Enfield Classic 350 Dual Channel ABS BS IV,2019.0,130000.0,Yes,"Kalkaji, South East Delhi", Delhi
+610,TVS,TVS iQube Electric,2024.0,85000.0,Yes,"Tarbha, Subarnapur", Orissa
+611,Suzuki,Suzuki Gixxer 150,2017.0,55000.0,Yes,Ahmedabad, Gujarat
+612,Hero,Hero Electric Photon,2022.0,80000.0,Yes,"Pharenda, Maharajganj", Uttar Pradesh
+613,Hero Cycles,Bicycle Decathlon,2023.0,4000.0,No,"Whitefield, Bangalore", Karnataka
+614,Yamaha,Yamaha FZ FI V3 BS6,2019.0,60000.0,Yes,Indore, Madhya Pradesh
+616,Royal Enfield,Royal Enfield Thunderbird X 350,2019.0,130000.0,Yes,Mysore, Karnataka
+617,Bajaj,Bajaj Pulsar RS 200 ABS,2016.0,55000.0,Yes,Ahmedabad, Gujarat
+618,Benling India,Benling Aura Li,2022.0,15000.0,Yes,Cuttack, Orissa
+619,Bajaj,Bajaj Chetak Premium,2022.0,65000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+620,TVS,TVS Apache RTR 200 4V 2020,2019.0,70000.0,Yes,"Panvel, Raigad", Maharashtra
+621,Royal Enfield,Royal Enfield Bullet Standard 350,2021.0,180000.0,Yes,Haridwar, Utarakhand
+622,Bajaj,Bajaj Avenger Cruise 220,2011.0,35000.0,Yes,Lucknow, Uttar Pradesh
+623,TVS,TVS Apache RTR 200 4V,2018.0,50000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+624,Hero,Hero Xtreme 125R,2024.0,85000.0,Yes,"Kalanaur, Rohtak", Haryana
+625,Honda,Honda CB Shine SP,2017.0,29999.0,Yes,"Khagaria, Munger", Bihar
+626,Suzuki,Suzuki Gixxer 150,2015.0,25000.0,Yes,"Velachery, Chennai", Tamil Nadu
+627,Yamaha,Yamaha MT-15 Ver 2.0,2024.0,170000.0,Yes,Warangal, Telangana
+628,Yamaha,Yamaha Crux,2015.0,15000.0,Yes,Chennai, Tamil Nadu
+629,Yamaha,Yamaha YZF R15 S V3.0,2022.0,140000.0,Yes,North 24 Parganas, West Bengal
+630,Royal Enfield,Royal Enfield Classic 350,2017.0,100000.0,Yes,"Rishikesh, Dehradun", Utarakhand
+633,Yezdi,Yezdi Roadster Dark,2022.0,190000.0,Yes,Navi Mumbai, Maharashtra
+634,KTM,KTM Duke 200,2016.0,90000.0,Yes,Ahmedabad, Gujarat
+635,TVS,TVS Apache RTR 160 4V Special Edition,2023.0,120000.0,Yes,"Dwarka, South West Delhi", Delhi
+636,Ola Electric,Ola S1 Pro Gen2,2023.0,105000.0,Yes,Thane, Maharashtra
+637,Bajaj,Bajaj Pulsar NS200,2013.0,48000.0,Yes,"HSR Layout, Bangalore", Karnataka
+638,Royal Enfield,Royal Enfield Bullet 350 ES,2021.0,125000.0,Yes,Hyderabad, Telangana
+639,Bajaj,Bajaj Dominar 400 ABS BS6,2021.0,160000.0,Yes,"Bandra West, Mumbai", Maharashtra
+640,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2025.0,140000.0,Yes,"Andheri East, Mumbai", Maharashtra
+641,Jawa,Jawa 42 Bobber Dual Channel ABS,2023.0,185000.0,Yes,"Mettupalayam, Coimbatore", Tamil Nadu
+643,Hero,Hero HF Deluxe BS6,2023.0,63000.0,Yes,Pune, Maharashtra
+644,Honda,Honda Activa 3G,2015.0,20000.0,Yes,Noida, Uttar Pradesh
+645,Honda,Honda SP125,2022.0,65000.0,Yes,"Rourkela, Sundergarh", Orissa
+646,Hero,Hero Destini Prime,2024.0,72000.0,Yes,"Electronic City, Bangalore", Karnataka
+647,Royal Enfield,Royal Enfield Classic 350 Redditch Red,2022.0,180000.0,Yes,North East Delhi, Delhi
+648,Bajaj,Bajaj Dominar 400,2018.0,65000.0,Yes,"Tambaram, Chengalpattu", Tamil Nadu
+649,TVS,TVS NTORQ 125 Race Edition,2025.0,80000.0,Yes,Bangalore, Karnataka
+650,Royal Enfield,Royal Enfield Bullet Standard 350,2019.0,100000.0,Yes,Patna, Bihar
+651,Bajaj,Bajaj Discover 100,2011.0,26999.0,Yes,Bangalore, Karnataka
+652,Royal Enfield,Royal Enfield Thunderbird X 350,2018.0,125000.0,Yes,"Jayanagar, Bangalore", Karnataka
+653,Yezdi,Yezdi Roadster Dark,2022.0,180000.0,Yes,Chennai, Tamil Nadu
+655,Hero,Hero Super Splendor BS6,2021.0,45000.0,Yes,Dehradun, Utarakhand
+657,Triumph,Triumph Scrambler 400 X,2025.0,290000.0,Yes,Palakkad, Kerala
+658,Ola Electric,Ola S1 Pro Gen2,2023.0,120000.0,Yes,Neemuch, Madhya Pradesh
+659,Bajaj,Bajaj Dominar 250 2025,2025.0,180000.0,Yes,Pune, Maharashtra
+660,Ola Electric,Ola S1X Plus,2024.0,80000.0,Yes,Bangalore, Karnataka
+661,TVS,TVS Sport BS6,2021.0,38000.0,Yes,Ghazipur, Uttar Pradesh
+662,Hyosung,Hyosung GT250RC,2016.0,99000.0,Yes,Hyderabad, Telangana
+663,Pure EV,Pure EV Etrance Neo,2022.0,42000.0,Yes,"Durgapur, Paschim Bardhaman", West Bengal
+664,Bajaj,Bajaj Freedom 125 NG04 Disc LED,2024.0,110000.0,Yes,"KR Puram, Bangalore", Karnataka
+665,Ola Electric,Ola S1X 4 kWh,2022.0,85000.0,Yes,Patna, Bihar
+666,Suzuki,Suzuki Access 125,2016.0,51500.0,Yes,"Electronic City, Bangalore", Karnataka
+667,Honda,Honda CBF Stunner,2013.0,15000.0,Yes,"Rajouri Garden, West Delhi", Delhi
+668,Ola Electric,Ola S1 Pro,2021.0,55000.0,Yes,Mumbai, Maharashtra
+669,Suzuki,Suzuki Access 125,2014.0,18000.0,Yes,Pune, Maharashtra
+670,Royal Enfield,Royal Enfield Classic 350,2015.0,99000.0,Yes,Hoshangabad, Madhya Pradesh
+671,KTM,KTM Duke 200,2016.0,100000.0,Yes,Guntur, Andhra Pradesh
+672,Bajaj,Bajaj Pulsar NS 160 BS6,2023.0,125000.0,Yes,Hyderabad, Telangana
+673,Jawa,Jawa  Jawa 42 Dual Channel ABS,2023.0,125000.0,Yes,"Kharar, Mohali", Punjab
+674,Royal Enfield,Royal Enfield Himalayan 450,2024.0,290000.0,Yes,Guwahati, Assam
+675,Yamaha,Yamaha FZ-S FI V2,2018.0,60000.0,Yes,Pathankot, Punjab
+676,Bajaj,Bajaj Pulsar 150,2015.0,32000.0,Yes,Dhanbad, Jharkhand
+677,Yamaha,Yamaha YZF R15,2022.0,145000.0,Yes,"Marathahalli, Bangalore", Karnataka
+678,Royal Enfield,Royal Enfield Classic 350,2018.0,130000.0,Yes,Moradabad, Uttar Pradesh
+679,Yamaha,Yamaha FZ-S,2012.0,24500.0,Yes,New Delhi, Delhi
+680,Bajaj,Bajaj Pulsar 150 DTSi,2010.0,45000.0,Yes,"Dwarka, South West Delhi", Delhi
+681,Jawa,Jawa Jawa,2020.0,120000.0,Yes,Trivandrum, Kerala
+682,Hero,Hero Passion Pro i3s,2024.0,67000.0,Yes,Vadodara, Gujarat
+683,Hero,Hero Splendor Plus,2017.0,30000.0,Yes,Ahmedabad, Gujarat
+684,Honda,Honda Unicorn,2011.0,30000.0,Yes,Chennai, Tamil Nadu
+685,Honda,Honda CBR 250R,2013.0,50000.0,Yes,"Goregaon, Mumbai", Maharashtra
+686,Honda,Honda CB Unicorn 160,2015.0,40000.0,Yes,"Yelahanka, Bangalore", Karnataka
+687,Husqvarna,Husqvarna Svartpilen 250,2020.0,80000.0,Yes,Hyderabad, Telangana
+688,Honda,Honda Livo Drum,2016.0,30000.0,Yes,"Sarita Vihar, South East Delhi", Delhi
+689,Royal Enfield,Royal Enfield Thunderbird X 350,2019.0,95000.0,Yes,Chennai, Tamil Nadu
+690,Honda,Honda Activa Electric,2025.0,90000.0,Yes,Bangalore, Karnataka
+691,Royal Enfield,Royal Enfield Meteor 350,2022.0,195000.0,Yes,Noida, Uttar Pradesh
+692,Honda,Honda CB200X 2023,2023.0,120000.0,Yes,Mumbai, Maharashtra
+693,Suzuki,Suzuki Intruder 150,2019.0,50000.0,Yes,"Kherki Daula, Gurgaon", Haryana
+694,Ola Electric,Ola S1 Pro,2024.0,99000.0,Yes,Bhubaneshwar, Orissa
+695,Honda,Honda Unicorn,2014.0,50000.0,Yes,"Avadi, Tiruvallur", Tamil Nadu
+696,Bajaj,Bajaj Dominar 400,2018.0,110000.0,Yes,Kolkata, West Bengal
+697,Honda,Honda Aviator,2012.0,28000.0,Yes,Pune, Maharashtra
+698,Yamaha,Yamaha R15 V4,2023.0,150000.0,Yes,"Banashankari, Bangalore", Karnataka
+699,Honda,Honda Activa 125,2019.0,45000.0,Yes,"Najafgarh, South West Delhi", Delhi
+700,Vespa,Vespa VXL 125 BS6,2024.0,110000.0,Yes,"Sivakasi, Virudhunagar", Tamil Nadu
+701,Honda,Honda Activa 6G Dlx,2020.0,60000.0,Yes,"Ichalkaranji, Kolhapur", Maharashtra
+702,TVS,TVS Jupiter,2021.0,55000.0,Yes,Ghaziabad, Uttar Pradesh
+703,Kawasaki,Kawasaki Ninja 300R,2016.0,150000.0,Yes,"Golconda, Hyderabad", Telangana
+704,Royal Enfield,Royal Enfield 2023 Continental GT 650,2023.0,325000.0,Yes,Solapur, Maharashtra
+705,Ola Electric,Ola S1 Air 3kWh,2024.0,99000.0,Yes,Vadodara, Gujarat
+706,Yamaha,Yamaha Fascino S,2022.0,69000.0,Yes,Tiruchirappalli, Tamil Nadu
+707,Jawa,Jawa forty two,2019.0,115000.0,Yes,"Kompally, Medchal-Malkajgiri", Telangana
+708,Bajaj,Bajaj Pulsar NS 160 BS6,2021.0,75000.0,Yes,Mangalore, Karnataka
+709,TVS,TVS iQube S,2022.0,85000.0,Yes,Bangalore, Karnataka
+710,Hero,Hero Xtreme,2016.0,45000.0,Yes,Gondia, Maharashtra
+711,TVS,TVS,2019.0,45000.0,Yes,"Tapa, Barnala", Punjab
+712,Bajaj,Bajaj Pulsar 135LS,2010.0,21000.0,Yes,"Electronic City, Bangalore", Karnataka
+713,Honda,Honda CB Shine SP,2016.0,35000.0,Yes,"Kalyanpur, Kanpur", Uttar Pradesh
+714,KTM,KTM RC 200 GP,2023.0,210000.0,Yes,Tirupati, Andhra Pradesh
+715,KTM,KTM 390 Adventure 2022,2022.0,315000.0,Yes,"Mira-Bhayandar, Thane", Maharashtra
+716,Bajaj,Bajaj Pulsar 150 DTSi,2017.0,45000.0,Yes,Baran, Rajasthan
+717,Bajaj,Bajaj Avenger Street 150,2017.0,42000.0,Yes,Dehradun, Utarakhand
+718,Hero,Hero Maestro Edge 125 BS6,2020.0,45000.0,Yes,"Phulpur, Allahabad", Uttar Pradesh
+719,Honda,Honda CB Unicorn 160,2015.0,40000.0,Yes,Bangalore, Karnataka
+720,Bajaj,Bajaj Pulsar 125,2021.0,60000.0,Yes,Pimpri-Chinchwad, Maharashtra
+721,Royal Enfield,Royal Enfield Bullet Electra,2021.0,157000.0,Yes,Azamgarh, Uttar Pradesh
+722,Ola Electric,Ola S1 Pro Gen2,2023.0,100000.0,Yes,Thane, Maharashtra
+723,Hero,Hero Passion XTec,2023.0,70000.0,Yes,"Misrikh, Sitapur", Uttar Pradesh
+724,TVS,TVS Apache RTR 160 4V,2021.0,95000.0,Yes,Agra, Uttar Pradesh
+725,Yamaha,Yamaha MT-15,2020.0,100000.0,Yes,"Electronic City, Bangalore", Karnataka
+726,Yamaha,Yamaha FZ-X,2021.0,70000.0,Yes,Mumbai, Maharashtra
+727,Honda,Honda Activa 6G Std,2022.0,78000.0,Yes,Tumkur, Karnataka
+728,Honda,Honda CBF Stunner,2011.0,25000.0,Yes,"Nadiad, Kheda", Gujarat
+729,Honda,Honda CB350RS,2022.0,170000.0,Yes,Hyderabad, Telangana
+730,Hero Cycles,Bicycle Hercules,2023.0,9500.0,No,"Vasundhara, Ghaziabad", Uttar Pradesh
+731,Royal Enfield,Royal Enfield Meteor 350 Supernova,2024.0,250000.0,Yes,"Vikhroli, Mumbai", Maharashtra
+732,Yamaha,Yamaha FZ FI V2,2014.0,32000.0,Yes,"HSR Layout, Bangalore", Karnataka
+733,Bajaj,Bajaj Avenger Street 220 BS6,2017.0,70000.0,Yes,Surat, Gujarat
+734,Honda,Honda Shine 100,2025.0,68500.0,Yes,"Vrindavan, Mathura", Uttar Pradesh
+735,Jawa,Jawa Perak BS6,2022.0,150000.0,Yes,Ahmedabad, Gujarat
+736,KTM,KTM Duke 390,2022.0,250000.0,Yes,"Yelahanka, Bangalore", Karnataka
+737,Harley,Harley Davidson Fat Bob,2022.0,1500000.0,Yes,"Rajouri Garden, West Delhi", Delhi
+738,Yamaha,Yamaha Cygnus Ray ZR Street Rally,2018.0,45000.0,Yes,Indore, Madhya Pradesh
+739,Ola Electric,Ola S1 Pro Gen2,2024.0,100000.0,Yes,"Karawal Nagar, North East Delhi", Delhi
+740,Yamaha,Yamaha R15 V4,2023.0,175000.0,Yes,Chengalpattu, Tamil Nadu
+741,Hero,Hero Maestro Edge,2016.0,50000.0,Yes,"Shaikpet, Hyderabad", Telangana
+742,Yamaha,Yamaha FZ-S,2017.0,45000.0,Yes,Bhubaneshwar, Orissa
+744,Hero,Hero Pleasure,2013.0,20500.0,Yes,Ghaziabad, Uttar Pradesh
+745,Hero,Hero Maestro Edge,2018.0,27000.0,Yes,Gurgaon, Haryana
+747,Jawa,Jawa Jawa,2021.0,130000.0,Yes,Angul, Orissa
+748,Yamaha,Yamaha FZ-S FI V3 BS6,2019.0,60000.0,Yes,Pune, Maharashtra
+749,Yamaha,Yamaha YZF R15 V3,2018.0,110000.0,Yes,Pune, Maharashtra
+750,Royal Enfield,Royal Enfield Classic Battle Green,2021.0,220000.0,Yes,"Banashankari, Bangalore", Karnataka
+751,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2021.0,100001.0,Yes,"Shibpur, Howrah", West Bengal
+752,Bajaj,Bajaj Pulsar 150 Twin Disc BS6,2021.0,70000.0,Yes,Hyderabad, Telangana
+753,Hero,Hero Xtreme 160R 4V Connected 2.0,2024.0,120000.0,Yes,Kolkata, West Bengal
+754,Royal Enfield,Royal Enfield Bullet Standard 350,2020.0,150000.0,Yes,South Delhi, Delhi
+755,TVS,TVS Raider Split Seat,2022.0,70000.0,Yes,Jaipur, Rajasthan
+756,Hero,Hero Xtreme,2011.0,18700.0,Yes,Gurgaon, Haryana
+757,Bajaj,Bajaj Pulsar 150,2011.0,18000.0,Yes,"Seemapuri, Shahdara", Delhi
+758,KTM,KTM Duke 390,2016.0,89000.0,Yes,"Sanganer, Jaipur", Rajasthan
+760,Ola Electric,Ola S1 Air 3kWh,2023.0,75000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+761,Bajaj,Bajaj Dominar 250,2021.0,130000.0,Yes,"Ameerpet, Hyderabad", Telangana
+762,Yamaha,Yamaha YZF R15 V3 BS6,2021.0,110000.0,Yes,Hyderabad, Telangana
+763,Ola Electric,Ola S1 Pro Gen2,2023.0,65000.0,Yes,Dharwad, Karnataka
+764,Bajaj,Bajaj Pulsar 200 NS,2017.0,75000.0,Yes,"Whitefield, Bangalore", Karnataka
+765,BMW,BMW G 310 RR,2022.0,225000.0,Yes,"Velachery, Chennai", Tamil Nadu
+766,Yezdi,Yezdi Roadster Dark,2023.0,180000.0,Yes,"Alandur, Chennai", Tamil Nadu
+767,KTM,KTM RC 200,2019.0,125000.0,Yes,"Prithla, Palwal", Haryana
+768,Suzuki,Suzuki Gixxer 150,2017.0,65000.0,Yes,"Bagnan, Howrah", West Bengal
+769,Royal Enfield,Royal Enfield Classic 350,2016.0,110000.0,Yes,Kolkata, West Bengal
+770,Bajaj,Bajaj Avenger Street 160,2021.0,68000.0,Yes,"Dombivli, Thane", Maharashtra
+772,Hero,Hero Maestro Edge,2016.0,18000.0,Yes,"Preet Vihar, East Delhi", Delhi
+773,Yamaha,Yamaha FZ25,2017.0,60000.0,Yes,Kolkata, West Bengal
+774,Royal Enfield,Royal Enfield Himalayan 450,2024.0,275000.0,Yes,"Uzhavarkarai, Pondicherry", Pondicherry
+775,Bajaj,Bajaj Pulsar 150 DTSi,2014.0,30000.0,Yes,Howrah, West Bengal
+777,Honda,Honda Hness CB 350,2021.0,150000.0,Yes,"Greater Noida, Gautam Buddha Nagar", Uttar Pradesh
+778,TVS,TVS iQube Electric,2023.0,85000.0,Yes,New Delhi, Delhi
+779,Hero,Hero Pleasure,2017.0,44999.0,Yes,Gandhinagar, Gujarat
+780,Hero,Hero Glamour Xtec,2021.0,60000.0,Yes,Nellore, Andhra Pradesh
+781,Ampere Electric,Ampere Magnus Ex,2023.0,35000.0,Yes,"Dahisar, Mumbai", Maharashtra
+782,Yamaha,Yamaha YZF R15 V3,2018.0,120000.0,Yes,Pimpri-Chinchwad, Maharashtra
+783,KTM,KTM RC 125 2020,2020.0,125000.0,Yes,Rewa, Madhya Pradesh
+784,Bajaj,Bajaj Pulsar 150 DTSi,2020.0,60000.0,Yes,"Kandivali, Mumbai", Maharashtra
+785,Honda,Honda Activa,2008.0,20000.0,Yes,Pune, Maharashtra
+786,Vida (by Hero),Vida V1 Plus,2024.0,100000.0,Yes,Ahmednagar, Maharashtra
+787,Jawa,Jawa  2024,2024.0,230000.0,Yes,Vadodara, Gujarat
+788,Honda,Honda Aviator,2011.0,15000.0,Yes,"T. Nagar, Chennai", Tamil Nadu
+789,TVS,TVS Apache RTR 180 ABS,2017.0,44000.0,Yes,"T. Nagar, Chennai", Tamil Nadu
+790,Honda,Honda Livo 110,2017.0,40000.0,Yes,"Rau, Indore", Madhya Pradesh
+791,Honda,Honda Shine 125 Disc,2015.0,45000.0,Yes,Bangalore, Karnataka
+792,Yamaha,Yamaha Fascino,2019.0,50000.0,Yes,"Avadi, Tiruvallur", Tamil Nadu
+793,Royal Enfield,Royal Enfield Bullet 350,2015.0,110000.0,Yes,"Tarabganj, Gonda", Uttar Pradesh
+794,BMW,BMW G 310 GS BS6,2020.0,290000.0,Yes,Hyderabad, Telangana
+795,Royal Enfield,Royal Enfield Thunderbird 350,2015.0,140000.0,Yes,Pune, Maharashtra
+796,Royal Enfield,Royal Enfield Hunter 350 Retro,2023.0,160000.0,Yes,Vijayawada, Andhra Pradesh
+798,Royal Enfield,Royal Enfield Thunderbird X 350,2018.0,130000.0,Yes,"Konni, Pathanamthitta", Kerala
+799,Honda,Honda Activa 3G,2015.0,35000.0,Yes,Pune, Maharashtra
+800,Royal Enfield,Royal Enfield Classic 350,2015.0,80000.0,Yes,"Delhi Cantonment, New Delhi", Delhi
+801,Royal Enfield,Royal Enfield Bullet Electra 5S,2012.0,100000.0,Yes,"Malad, Mumbai", Maharashtra
+802,Honda,Honda Livo Disc,2013.0,40000.0,Yes,Farrukhabad, Uttar Pradesh
+803,Bajaj,Bajaj Dominar 250,2020.0,120000.0,Yes,Kozhikode, Kerala
+805,Hero,Hero Xpulse 200 4V,2022.0,135000.0,Yes,Surat, Gujarat
+806,Bajaj,Bajaj Pulsar 150 DTSi,2015.0,45000.0,Yes,"Navi Mumbai, Thane", Maharashtra
+808,Royal Enfield,Royal Enfield Bullet Standard 350,1997.0,120000.0,Yes,Chennai, Tamil Nadu
+809,KTM,KTM Duke 250 2025,2025.0,230000.0,Yes,New Delhi, Delhi
+810,Royal Enfield,Royal Enfield Himalayan Sleet,2019.0,139000.0,Yes,"Greater Noida, Gautam Buddha Nagar", Uttar Pradesh
+811,Royal Enfield,Royal Enfield Guerrilla 450 Flash,2025.0,280000.0,Yes,Greater Noida, Uttar Pradesh
+812,TVS,TVS Jupiter ZX SmartXonnect,2022.0,75000.0,Yes,Bangalore, Karnataka
+813,Ola Electric,Ola S1 Pro Gen2,2024.0,90000.0,Yes,Surendranagar, Gujarat
+814,Bajaj,Bajaj Avenger 200 DTS-i,2010.0,40000.0,Yes,Hyderabad, Telangana
+815,Yamaha,Yamaha Fazer FI V2,2014.0,28000.0,Yes,"Vikhroli, Mumbai", Maharashtra
+816,Honda,Honda Activa 5G,2019.0,49999.0,Yes,"Zirakpur, Mohali", Punjab
+817,Hero,Hero Pleasure,2015.0,23000.0,Yes,Kolkata, West Bengal
+818,Royal Enfield,Royal Enfield Bullet Standard 350,2019.0,130000.0,Yes,"Olpad, Surat", Gujarat
+819,TVS,TVS Jupiter 125,2022.0,70000.0,Yes,Nagpur, Maharashtra
+820,Triumph,Triumph Speed 400,2023.0,240000.0,Yes,"Ameerpet, Hyderabad", Telangana
+821,Bajaj,Bajaj Pulsar 150,2013.0,25000.0,Yes,Kabirdham, Chhattisgarh
+822,Jitendra EV,Jitendra JMT Classic City,2023.0,38000.0,Yes,"Parel, Mumbai", Maharashtra
+823,Hero,Hero CBZ,2011.0,20000.0,Yes,"Kandivali, Mumbai", Maharashtra
+824,TVS,TVS Jupiter 125,2017.0,35000.0,Yes,"Dwarka, South West Delhi", Delhi
+825,Bajaj,Bajaj Pulsar P150,2023.0,85000.0,Yes,"Erumely, Kottayam", Kerala
+826,Honda,Honda Activa 3G,2015.0,35000.0,Yes,Dehradun, Utarakhand
+827,Bajaj,Bajaj Avenger Cruise 220,2016.0,65000.0,Yes,Jodhpur, Rajasthan
+828,Mahindra,Mahindra Centuro O1,2014.0,30000.0,Yes,New Delhi, Delhi
+829,Hero,Hero HF Deluxe,2017.0,60000.0,Yes,Belgaum, Karnataka
+830,Revolt Motors,Revolt RV400 BRZ,2025.0,120000.0,Yes,"Civil Lines, Central Delhi", Delhi
+831,Revolt Motors,Revolt RV 400,2022.0,100000.0,Yes,Chennai, Tamil Nadu
+832,Yamaha,Yamaha Fazer,2013.0,47000.0,Yes,Vadodara, Gujarat
+833,Honda,Honda Unicorn,2011.0,25000.0,Yes,Mumbai, Maharashtra
+834,Hero,Hero HF Deluxe i3s,2020.0,40000.0,Yes,"Diamond Harbour, South 24 Parganas", West Bengal
+835,Hero,Hero Super Splendor XTEC,2023.0,70000.0,Yes,Ahmedabad, Gujarat
+836,KTM,KTM Duke 250,2022.0,185000.0,Yes,"Meghnagar, Jhabua", Madhya Pradesh
+837,Triumph,Triumph Speed 400,2023.0,215000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+838,Royal Enfield,Royal Enfield Thunderbird TwinSpark 350,2012.0,55000.0,Yes,Hosur, Tamil Nadu
+839,TVS,TVS Ronin TD,2022.0,160000.0,Yes,"Indiranagar, Bangalore", Karnataka
+840,Honda,Honda CB350 Brigade,2024.0,190000.0,Yes,"Thiruporur, Chengalpattu", Tamil Nadu
+841,TVS,TVS Apache RTR 160 4V,2022.0,70000.0,Yes,"Maddur, Mandya", Karnataka
+842,Suzuki,Suzuki Access 125,2013.0,10000.0,Yes,"Kalol, Gandhinagar", Gujarat
+843,TVS,TVS Ronin TD Special Edition,2025.0,170000.0,Yes,"Durgapur, Paschim Bardhaman", West Bengal
+844,Royal Enfield,Royal Enfield Thunderbird X 350,2018.0,100000.0,Yes,North Delhi, Delhi
+845,Harley,Harley Davidson X440 S,2024.0,260000.0,Yes,Etawah, Uttar Pradesh
+846,Bajaj,Bajaj Avenger Street 160,2021.0,70000.0,Yes,Lucknow, Uttar Pradesh
+847,Royal Enfield,Royal Enfield Continental GT 650,2025.0,410000.0,Yes,"Perambur, Chennai", Tamil Nadu
+848,Hero,Hero HF Deluxe,2020.0,44000.0,Yes,"Chhutmalpur, Saharanpur", Uttar Pradesh
+849,Bajaj,Bajaj Avenger Street 160,2020.0,42000.0,Yes,Buxar, Bihar
+850,Honda,Honda Activa 6G Dlx,2023.0,75000.0,Yes,Pune, Maharashtra
+851,Royal Enfield,Royal Enfield Meteor 350 Fireball,2025.0,220000.0,Yes,Mysore, Karnataka
+852,Royal Enfield,Royal Enfield Continental GT 650 Twin,2022.0,320000.0,Yes,"Chandannagar, Hooghly", West Bengal
+853,KTM,KTM RC 200,2018.0,90000.0,Yes,Ujjain, Madhya Pradesh
+854,Yamaha,Yamaha SZ-R,2011.0,15000.0,Yes,Indore, Madhya Pradesh
+855,Jawa,Jawa Jawa,2020.0,65000.0,Yes,"Sankrail, Howrah", West Bengal
+856,River Mobility,River Indie 2024,2024.0,115000.0,Yes,Bangalore, Karnataka
+857,Suzuki,Suzuki Burgman Street Ride Connect Edition,2023.0,90000.0,Yes,"Mira-Bhayandar, Thane", Maharashtra
+858,Honda,Honda Shine 125 Drum OBD2,2025.0,80000.0,Yes,Ghaziabad, Uttar Pradesh
+859,Bajaj,Bajaj Pulsar NS 160 BS6,2025.0,130000.0,Yes,"Bano, Simdega", Jharkhand
+860,Bajaj,Bajaj Avenger Cruise 220,2018.0,75000.0,Yes,"Yamuna Vihar, North East Delhi", Delhi
+861,Suzuki,Suzuki Gixxer SF,2025.0,170000.0,Yes,Meerut, Uttar Pradesh
+862,Royal Enfield,Royal Enfield Classic 350,2016.0,125000.0,Yes,Vadodara, Gujarat
+863,Yamaha,Yamaha FZ-S FI V2,2015.0,50000.0,Yes,"Kandivali, Mumbai", Maharashtra
+864,Bajaj,Bajaj Discover 100,2015.0,15000.0,Yes,Mangalore, Karnataka
+865,Benelli,Benelli Imperiale 400 BS6,2020.0,180000.0,Yes,Daman, Daman n Diu
+866,Suzuki,Suzuki Access 125,2011.0,17000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+867,Royal Enfield,Royal Enfield Thunderbird X 350,2019.0,100000.0,Yes,"Angamaly, Ernakulam", Kerala
+868,Hero,Hero HF Deluxe ECO,2024.0,50000.0,Yes,Lucknow, Uttar Pradesh
+869,Honda,Honda Activa 5G,2018.0,35000.0,Yes,"Punjabi Bagh, West Delhi", Delhi
+870,Yamaha,Yamaha FZ-S FI V3 BS6,2021.0,80000.0,Yes,"Kanjhawala, North West Delhi", Delhi
+871,Royal Enfield,Royal Enfield Classic 350,2018.0,90000.0,Yes,New Delhi, Delhi
+872,Ola Electric,Ola S1 X Gen 3 4kWh,2025.0,100000.0,Yes,Pune, Maharashtra
+873,Bajaj,Bajaj Avenger Cruise 220 BS6,2021.0,85000.0,Yes,North 24 Parganas, West Bengal
+874,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2023.0,120000.0,Yes,Gurgaon, Haryana
+875,Yamaha,Yamaha FZ-S FI V3,2019.0,70000.0,Yes,Pimpri-Chinchwad, Maharashtra
+876,Royal Enfield,Royal Enfield Classic 350 BS VI,2021.0,210000.0,Yes,Jaipur, Rajasthan
+877,BMW,BMW G 310 RR,2024.0,250000.0,Yes,"Malad, Mumbai", Maharashtra
+878,TVS,TVS Apache RTR 180,2015.0,25000.0,Yes,"Maraimalai Nagar, Chengalpattu", Tamil Nadu
+879,Honda,Honda Shine 125,2017.0,25000.0,Yes,Lucknow, Uttar Pradesh
+880,Royal Enfield,Royal Enfield Himalayan BS VI,2020.0,165000.0,Yes,"Srirangam, Tiruchirappalli", Tamil Nadu
+881,Yamaha,Yamaha Aerox 155 Version S 2025,2025.0,130000.0,Yes,Hooghly, West Bengal
+882,BMW,BMW G 310 GS,2021.0,320000.0,Yes,Sangareddy, Telangana
+883,Hero,Hero CBZ Xtreme,2011.0,25000.0,Yes,"Wakad, Pune", Maharashtra
+884,Bajaj,Bajaj Dominar 250,2020.0,100000.0,Yes,New Delhi, Delhi
+885,Bajaj,Bajaj Pulsar 125,2020.0,50000.0,Yes,Gurgaon, Haryana
+886,Yamaha,Yamaha FZ-S,2016.0,40000.0,Yes,"Balasinor, Mahisagar", Gujarat
+887,Ola Electric,Ola S1X 4 kWh,2024.0,79000.0,Yes,"Saket, South Delhi", Delhi
+889,Bajaj,Bajaj Pulsar 220F,2010.0,25000.0,Yes,"Bandhabahal, Jharsuguda", Orissa
+890,Bajaj,Bajaj Pulsar 150 BS6,2025.0,125000.0,Yes,Hyderabad, Telangana
+891,Suzuki,Suzuki Access 125,2008.0,7000.0,Yes,"Tirumalagiri, Hyderabad", Telangana
+892,Honda,Honda CB Unicorn,2016.0,50000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+893,Honda,Honda Shine 125 Disc,2022.0,60000.0,Yes,"Ameerpet, Hyderabad", Telangana
+894,TVS,TVS iQube Electric,2023.0,99500.0,Yes,"Chakan, Pune", Maharashtra
+895,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,180000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+896,Hero,Hero Passion Pro,2012.0,16000.0,Yes,Hyderabad, Telangana
+897,TVS,TVS NTORQ 125,2020.0,43000.0,Yes,Thane, Maharashtra
+898,Revolt Motors,Revolt RV 400,2024.0,125000.0,Yes,"Andheri East, Mumbai", Maharashtra
+899,Yezdi,Yezdi Roadster Dark,2023.0,170000.0,Yes,Ahmedabad, Gujarat
+900,Yamaha,Yamaha Fascino,2019.0,38000.0,Yes,Hyderabad, Telangana
+901,Yezdi,Yezdi Adventure Matte,2023.0,180000.0,Yes,"Kanjurmarg, Mumbai", Maharashtra
+902,Honda,Honda Activa 125,2017.0,30000.0,Yes,Kolkata, West Bengal
+903,Royal Enfield,Royal Enfield Bear 650,2025.0,424000.0,Yes,"Berhampore, Murshidabad", West Bengal
+904,Hero,Hero Xtreme 125R,2024.0,83000.0,Yes,"Abu Road, Sirohi", Rajasthan
+905,Bajaj,Bajaj Dominar 400 ABS BS6,2019.0,120000.0,Yes,"Chanakyapuri, New Delhi", Delhi
+906,Hero,Hero Maestro Edge 125,2012.0,17000.0,Yes,"Thiruvalla, Pathanamthitta", Kerala
+907,TVS,TVS Jupiter,2018.0,35000.0,Yes,"Dwarka, South West Delhi", Delhi
+908,Yamaha,Yamaha R15M,2021.0,158000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+909,Bajaj,Bajaj CT 125X,2023.0,74000.0,Yes,"Memari, Bardhaman", West Bengal
+910,Bajaj,Bajaj Pulsar NS 160,2023.0,80000.0,Yes,"Muradnagar, Ghaziabad", Uttar Pradesh
+911,Hero,Hero Glamour,2015.0,32000.0,Yes,"Whitefield, Bangalore", Karnataka
+912,Aprilia,Aprilia SR 160,2020.0,80000.0,Yes,"Perinthalmanna, Malappuram", Kerala
+913,Hero,Hero Karizma XMR,2024.0,150000.0,Yes,Mathura, Uttar Pradesh
+914,Yamaha,Yamaha SZ-R,2012.0,20000.0,Yes,"Kalyani, Nadia", West Bengal
+915,Royal Enfield,Royal Enfield Himalayan,2023.0,225000.0,Yes,Kolkata, West Bengal
+916,Bajaj,Bajaj Avenger Street 220,2018.0,55000.0,Yes,Hyderabad, Telangana
+917,Bajaj,Bajaj Pulsar 150 DTSi,2019.0,70000.0,Yes,Pune, Maharashtra
+918,TVS,TVS Ronin TD Special Edition,2024.0,135000.0,Yes,"Guindy, Chennai", Tamil Nadu
+919,Yamaha,Yamaha Fazer,2010.0,20000.0,Yes,New Delhi, Delhi
+920,Bajaj,Bajaj Avenger Cruise 220 BS6,2021.0,95000.0,Yes,Kolkata, West Bengal
+921,E-Motorad,E-Next Pro Plus,2024.0,39000.0,Yes,South West Delhi, Delhi
+922,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,135000.0,Yes,"Badshahpur, Gurgaon", Haryana
+923,Triumph,Triumph Bonneville T120,2021.0,950000.0,Yes,"Whitefield, Bangalore", Karnataka
+924,Hero,Hero Xtreme 160R 4V 2024,2025.0,130000.0,Yes,"Badshahpur, Gurgaon", Haryana
+925,Royal Enfield,Royal Enfield Scram 411,2022.0,140000.0,Yes,Agra, Uttar Pradesh
+926,iVOOMi Energy,iVOOMi JeetX,2023.0,69000.0,Yes,Pune, Maharashtra
+927,Bajaj,Bajaj Avenger Cruise 220,2018.0,55000.0,Yes,"Sohna, Gurgaon", Haryana
+928,Royal Enfield,Royal Enfield Classic 350,2021.0,190000.0,Yes,Pune, Maharashtra
+929,Royal Enfield,Royal Enfield Bullet 350,1989.0,85000.0,Yes,"Kochi, Ernakulam", Kerala
+930,KTM,KTM Duke 200,2014.0,110000.0,Yes,"HSR Layout, Bangalore", Karnataka
+931,BattRE,BattRE LoEV,2021.0,37999.0,Yes,Ghaziabad, Uttar Pradesh
+932,Royal Enfield,Royal Enfield Meteor 350 Fireball,2024.0,175000.0,Yes,Chennai, Tamil Nadu
+933,Bajaj,Bajaj Pulsar 150,2013.0,30000.0,Yes,Bangalore, Karnataka
+934,Ola Electric,Ola S1 Pro,2022.0,90000.0,Yes,Pimpri-Chinchwad, Maharashtra
+935,BSA,BSA Gold Star 650,2024.0,299000.0,Yes,New Delhi, Delhi
+936,Royal Enfield,Royal Enfield 2023 Interceptor 650,2022.0,265000.0,Yes,"Kundli, Sonipat", Haryana
+937,Honda,Honda CBR 250R,2018.0,140000.0,Yes,"Electronic City, Bangalore", Karnataka
+938,Bajaj,Bajaj Pulsar 125,2023.0,90000.0,Yes,Farrukhabad, Uttar Pradesh
+939,Ola Electric,Ola S1 Pro,2023.0,125000.0,Yes,North 24 Parganas, West Bengal
+940,TVS,TVS Jupiter,2017.0,25000.0,Yes,"Badkhal, Faridabad", Haryana
+941,KTM,KTM 390 Adventure,2023.0,310000.0,Yes,Mumbai, Maharashtra
+942,Royal Enfield,Royal Enfield Classic Desert Storm,2017.0,135000.0,Yes,"Madukkarai, Coimbatore", Tamil Nadu
+943,Yamaha,Yamaha R15M Monster Energy MotoGP Edition,2024.0,195000.0,Yes,Kachchh, Gujarat
+944,Hero,Hero Splendor Plus,2013.0,28000.0,Yes,Panipat, Haryana
+945,KTM,KTM RC 200,2021.0,140000.0,Yes,Bangalore, Karnataka
+946,Royal Enfield,Royal Enfield Himalayan 2021,2021.0,200000.0,Yes,Lucknow, Uttar Pradesh
+947,Bajaj,Bajaj Pulsar RS 200 ABS,2015.0,60000.0,Yes,"Chakan, Pune", Maharashtra
+948,Yamaha,Yamaha YZF R15 V3,2020.0,90000.0,Yes,Araria, Bihar
+949,TVS,TVS Apache RTR 180,2020.0,75000.0,Yes,Kanpur, Uttar Pradesh
+950,Yamaha,Yamaha FZ FI V3 BS6,2023.0,95000.0,Yes,Ratnagiri, Maharashtra
+951,Honda,Honda Unicorn,2010.0,50000.0,Yes,"Koramangala, Bangalore", Karnataka
+952,TVS,TVS iQube S,2022.0,87000.0,Yes,"Hebbal, Bangalore", Karnataka
+953,Honda,Honda Activa 6G H-smart,2023.0,75000.0,Yes,Kolkata, West Bengal
+954,Suzuki,Suzuki Gixxer SF Fi,2018.0,60000.0,Yes,"Marathahalli, Bangalore", Karnataka
+955,Ola Electric,Ola S1 Pro,2024.0,98000.0,Yes,"Narnaul, Mahendragarh", Haryana
+956,Jawa,Jawa Jawa BS6,2023.0,120000.0,Yes,Pimpri-Chinchwad, Maharashtra
+957,Royal Enfield,Royal Enfield Himalayan 2021,2021.0,140000.0,Yes,Kolkata, West Bengal
+958,Yamaha,Yamaha FZ25,2018.0,100000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+959,Royal Enfield,Royal Enfield Thunderbird 350,2014.0,55000.0,Yes,Kolkata, West Bengal
+961,Ola Electric,Ola S1 Pro,2022.0,79999.0,Yes,"Electronic City, Bangalore", Karnataka
+962,Royal Enfield,Royal Enfield Thunderbird 350,2019.0,120000.0,Yes,Chennai, Tamil Nadu
+963,Bajaj,Bajaj Pulsar NS 125,2025.0,95000.0,Yes,Faridabad, Haryana
+964,Ola Electric,Ola S1 Pro,2022.0,80000.0,Yes,"Thumkunta, Medchal-Malkajgiri", Telangana
+965,Bajaj,Bajaj Avenger 220 DTS-i,2018.0,100000.0,Yes,Hyderabad, Telangana
+966,Royal Enfield,Royal Enfield Classic 500,2017.0,95000.0,Yes,Guwahati, Assam
+967,Honda,Honda XBlade BS6,2020.0,79000.0,Yes,"Ameerpet, Hyderabad", Telangana
+968,Bajaj,Bajaj Discover 150 S,2012.0,20000.0,Yes,"Marathahalli, Bangalore", Karnataka
+970,Suzuki,Suzuki Access 125,2023.0,90000.0,Yes,Bangalore, Karnataka
+971,Bajaj,Bajaj Avenger Cruise 220,2019.0,81000.0,Yes,Pune, Maharashtra
+972,Hero,Hero Duet 110,2016.0,43500.0,Yes,Bangalore, Karnataka
+973,Hero,Hero Xpulse 200 4V,2022.0,120000.0,Yes,Hyderabad, Telangana
+974,Aprilia,Aprilia SXR 160,2020.0,45000.0,Yes,"Andheri East, Mumbai", Maharashtra
+975,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2024.0,100000.0,Yes,Bhilwara, Rajasthan
+976,Bajaj,Bajaj Avenger Cruise 220,2018.0,60000.0,Yes,Chennai, Tamil Nadu
+977,Honda,Honda CB350 DLX Pro,2024.0,210000.0,Yes,"Gandhinagar, Ahmedabad", Gujarat
+978,KTM,KTM Duke 390 2022,2022.0,250000.0,Yes,Dehradun, Utarakhand
+979,Bajaj,Bajaj V15,2016.0,30000.0,Yes,Noida, Uttar Pradesh
+980,Hero,Hero CBZ Xtreme,2013.0,45000.0,Yes,Ahmedabad, Gujarat
+981,KTM,KTM 390 Adventure 2022,2022.0,290000.0,Yes,New Delhi, Delhi
+982,Bajaj,Bajaj Dominar 400 Disc,2018.0,140000.0,Yes,"Badlapur, Thane", Maharashtra
+983,BMW,BMW F 900 GS Adventure,2025.0,1500000.0,Yes,Pune, Maharashtra
+984,Yamaha,Yamaha Aerox 155 2025,2025.0,160000.0,Yes,"Andheri East, Mumbai", Maharashtra
+985,Royal Enfield,Royal Enfield Bullet 350 ES BS6,2021.0,130000.0,Yes,"Sanganer, Jaipur", Rajasthan
+986,Hero,Hero XPulse 200T,2019.0,60000.0,Yes,"Nagercoil, Kanyakumari", Tamil Nadu
+987,KTM,KTM 390 Adventure X,2024.0,300000.0,Yes,Chennai, Tamil Nadu
+988,TVS,TVS Apache RTR 160 4V,2020.0,90000.0,Yes,Dehradun, Utarakhand
+989,Yamaha,Yamaha FZ-S,2012.0,35000.0,Yes,Greater Noida, Uttar Pradesh
+990,Hero,Hero Passion X Pro,2018.0,30000.0,Yes,South Delhi, Delhi
+991,Harley,Harley Davidson X440 S,2023.0,265000.0,Yes,"Rajouri Garden, West Delhi", Delhi
+992,Yezdi,Yezdi Roadster Dark,2022.0,170000.0,Yes,Udaipur, Rajasthan
+993,Honda,Honda Dream Yuga,2014.0,30000.0,Yes,"Hadapsar, Pune", Maharashtra
+994,Royal Enfield,Royal Enfield Classic Stealth Black,2021.0,165000.0,Yes,"Saket, South Delhi", Delhi
+995,TVS,TVS NTORQ 125 Race XP,2022.0,65000.0,Yes,Khammam, Telangana
+996,Suzuki,Suzuki Gixxer SF BS6,2025.0,120000.0,Yes,Bhilwara, Rajasthan
+997,Hero,Hero Glamour Xtec,2022.0,60000.0,Yes,North 24 Parganas, West Bengal
+998,Hero,Hero Xtreme,2012.0,20000.0,Yes,"Kalyan, Thane", Maharashtra
+999,Harley,Harley Davidson Fat Bob,2018.0,1200000.0,Yes,Gurgaon, Haryana
+1000,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,165000.0,Yes,Pune, Maharashtra
+1001,Royal Enfield,Royal Enfield Bullet,2025.0,170000.0,Yes,Kolkata, West Bengal
+1002,TVS,TVS Apache RTR 180,2018.0,50000.0,Yes,Ghaziabad, Uttar Pradesh
+1003,Bajaj,Bajaj Pulsar NS 200 2024,2024.0,145000.0,Yes,"Narasaraopet, Palnadu", Andhra Pradesh
+1004,Royal Enfield,Royal Enfield Bullet Machismo A350,2004.0,90000.0,Yes,Bangalore, Karnataka
+1005,Ather Energy,Ather 450X,2022.0,110000.0,Yes,Bangalore, Karnataka
+1006,Keeway Motors,Keeway SR 125,2024.0,95000.0,Yes,"Kalyan, Thane", Maharashtra
+1007,Yamaha,Yamaha FZ-S,2019.0,70000.0,Yes,"Wakad, Pune", Maharashtra
+1008,Yezdi,Yezdi Roadster Chrome,2022.0,155000.0,Yes,Madurai, Tamil Nadu
+1009,Yezdi,Yezdi Roadster Dark,2024.0,168000.0,Yes,Hyderabad, Telangana
+1010,Bajaj,Bajaj Pulsar 150 BS6,2022.0,85000.0,Yes,Hyderabad, Telangana
+1011,Bajaj,Bajaj Pulsar 125,2020.0,45000.0,Yes,"Motihari, EastChamparan", Bihar
+1012,Revolt Motors,Revolt RV 400,2020.0,70000.0,Yes,New Delhi, Delhi
+1013,Jawa,Jawa 42 Bobber Dual Channel ABS,2022.0,120000.0,Yes,Chennai, Tamil Nadu
+1014,Royal Enfield,Royal Enfield Interceptor 650 Twin,2021.0,250000.0,Yes,Ahmedabad, Gujarat
+1016,Hero,Hero Xpulse 200 4V,2025.0,115000.0,Yes,Bhopal, Madhya Pradesh
+1017,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,94000.0,Yes,New Delhi, Delhi
+1018,Bajaj,Bajaj Platina 100,2019.0,38000.0,Yes,"Pillu Khera, Jind", Haryana
+1019,Revolt Motors,Revolt RV 400,2021.0,60000.0,Yes,Pune, Maharashtra
+1020,Vespa,Vespa VXL 150,2020.0,85000.0,Yes,"Marathahalli, Bangalore", Karnataka
+1021,Triumph,Triumph Thruxton 400,2025.0,350000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+1023,Brazen Motors,Brazen  Prime,2022.0,31000.0,Yes,Rewari, Haryana
+1024,Ola Electric,Ola Roadster X Plus,2025.0,140000.0,Yes,Noida, Uttar Pradesh
+1025,Honda,Honda Dio,2017.0,50000.0,Yes,Coimbatore, Tamil Nadu
+1026,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2021.0,150000.0,Yes,Beed, Maharashtra
+1027,Honda,Honda CBR 250R,2015.0,90000.0,Yes,"Banashankari, Bangalore", Karnataka
+1028,Yamaha,Yamaha FZ-X,2023.0,120000.0,Yes,"Kompally, Medchal-Malkajgiri", Telangana
+1029,Honda,Honda CD 110 Dream Deluxe,2021.0,57000.0,Yes,Hyderabad, Telangana
+1030,Bajaj,Bajaj Pulsar AS 150,2019.0,53000.0,Yes,Gurgaon, Haryana
+1032,Bajaj,Bajaj Pulsar 180,2016.0,50000.0,Yes,"Banashankari, Bangalore", Karnataka
+1033,Hero,Hero Karizma ZMR,2014.0,55000.0,Yes,Hyderabad, Telangana
+1034,Ola Electric,Ola S1,2022.0,75000.0,Yes,"Ankola, Uttara Kannada", Karnataka
+1036,Honda,Honda CB Shine,2018.0,40000.0,Yes,Bharuch, Gujarat
+1038,Hero,Hero XPulse 200T BS6,2021.0,62000.0,Yes,Kolkata, West Bengal
+1039,Suzuki,Suzuki Gixxer 150,2015.0,35000.0,Yes,"Bellandur, Bangalore", Karnataka
+1040,Honda,Honda Shine 125 Drum,2011.0,45000.0,Yes,Bangalore, Karnataka
+1041,Triumph,Triumph Scrambler 400 X,2024.0,260000.0,Yes,Pune, Maharashtra
+1042,Honda,Honda Activa 4G,2018.0,40000.0,Yes,Vadodara, Gujarat
+1043,Bajaj,Bajaj Pulsar NS200,2017.0,70000.0,Yes,"Ameerpet, Hyderabad", Telangana
+1044,Hero Cycles,Bicycle  LIBERTY SWIFT,2025.0,25000.0,No,Noida, Uttar Pradesh
+1045,Bajaj,Bajaj Pulsar 150 Neon BS6,2021.0,65000.0,Yes,Hyderabad, Telangana
+1046,Honda,Honda CB Trigger,2013.0,50000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1047,Ola Electric,Ola S1 Pro,2024.0,125000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+1048,Royal Enfield,Royal Enfield Classic 350,2017.0,145000.0,Yes,"Ambattur, Chennai", Tamil Nadu
+1049,TVS,TVS Apache RR 310,2020.0,129999.0,Yes,Thane, Maharashtra
+1050,Yamaha,Yamaha MT-15 Ver 2.0,2022.0,110000.0,Yes,Gurgaon, Haryana
+1051,Bajaj,Bajaj Pulsar 150 Twin Disc,2018.0,48000.0,Yes,Nashik, Maharashtra
+1052,Yezdi,Yezdi Adventure Gloss,2022.0,126000.0,Yes,Anand, Gujarat
+1053,Harley,Harley Davidson Iron 883,2016.0,567000.0,Yes,Bangalore, Karnataka
+1054,BMW,BMW G 310 R,2023.0,225000.0,Yes,Patna, Bihar
+1055,Bajaj,Bajaj Pulsar 150,2016.0,35000.0,Yes,"Narot Jaimal Singh, Pathankot", Punjab
+1056,Royal Enfield,Royal Enfield Hunter 350 Metro,2022.0,150000.0,Yes,Meerut, Uttar Pradesh
+1057,Royal Enfield,Royal Enfield Bullet Electra 5S,2008.0,65000.0,Yes,Kozhikode, Kerala
+1058,Hero,Hero Splendor Plus IBS i3s,2017.0,45000.0,Yes,Hyderabad, Telangana
+1059,Bajaj,Bajaj Avenger Street 160,2021.0,90000.0,Yes,Gurgaon, Haryana
+1061,TVS,TVS Jupiter,2021.0,45000.0,Yes,"Manesar, Gurgaon", Haryana
+1062,Revolt Motors,Revolt RV1 Plus,2024.0,95000.0,Yes,"Taoru, Nuh", Haryana
+1063,KTM,KTM 390 Adventure 2023,2023.0,270000.0,Yes,"Whitefield, Bangalore", Karnataka
+1064,Royal Enfield,Royal Enfield Himalayan,2016.0,85000.0,Yes,Bangalore, Karnataka
+1065,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,140000.0,Yes,"Baraut, Bagpat", Uttar Pradesh
+1066,TVS,TVS Apache RTR 160 4V,2018.0,50000.0,Yes,"Narsingi, Rangareddy", Telangana
+1067,TVS,TVS iQube Electric,2023.0,95000.0,Yes,North West Delhi, Delhi
+1068,Hero,Hero Pleasure,2018.0,24000.0,Yes,Ahmedabad, Gujarat
+1069,Vida (by Hero),Vida V1 Pro,2023.0,105000.0,Yes,Indore, Madhya Pradesh
+1070,Ola Electric,Ola S1 Pro,2023.0,125000.0,Yes,Bangalore, Karnataka
+1071,Ola Electric,Ola S1 Air 3kWh,2024.0,95000.0,Yes,Hassan, Karnataka
+1073,Royal Enfield,Royal Enfield Continental GT 650 Twin,2025.0,380000.0,Yes,Satara, Maharashtra
+1074,Bajaj,Bajaj Pulsar 125,2023.0,65000.0,Yes,"Danapur, Patna", Bihar
+1075,Royal Enfield,Royal Enfield Classic 350,2017.0,145000.0,Yes,Bathinda, Punjab
+1076,Ola Electric,Ola S1 Pro Gen2,2024.0,80000.0,Yes,"Barakar, Paschim Bardhaman", West Bengal
+1077,TVS,TVS Ronin TD,2023.0,170000.0,Yes,Hosur, Tamil Nadu
+1078,Royal Enfield,Royal Enfield Classic 350,2018.0,170000.0,Yes,"KR Puram, Bangalore", Karnataka
+1079,Hero,Hero Xtreme 125R,2025.0,90000.0,Yes,New Delhi, Delhi
+1080,Suzuki,Suzuki Gixxer SF BS6,2024.0,145000.0,Yes,Auraiya, Uttar Pradesh
+1081,Suzuki,Suzuki V-Strom SX,2022.0,130000.0,Yes,Ahmedabad, Gujarat
+1082,Hero,Hero Xtreme 125R,2024.0,88000.0,Yes,Faridabad, Haryana
+1083,Suzuki,Suzuki Gixxer SF,2017.0,35000.0,Yes,Pune, Maharashtra
+1084,KTM,KTM Duke 390,2014.0,150000.0,Yes,Lucknow, Uttar Pradesh
+1085,BMW,BMW G 310 GS,2023.0,320000.0,Yes,Hyderabad, Telangana
+1086,KTM,KTM Duke 200,2016.0,65000.0,Yes,"Kalyan, Thane", Maharashtra
+1087,Honda,Honda Activa 5G,2018.0,45000.0,Yes,"Kottucherry, Karaikal", Pondicherry
+1088,Suzuki,Suzuki Gixxer SF BS6,2024.0,100000.0,Yes,Kadapa, Andhra Pradesh
+1089,Hero,Hero Pleasure Plus BS6,2022.0,60000.0,Yes,"Hadapsar, Pune", Maharashtra
+1091,Royal Enfield,Royal Enfield Hunter 350 2025,2023.0,170000.0,Yes,"Shaikpet, Hyderabad", Telangana
+1092,Harley,Harley Davidson X440 S,2025.0,325000.0,Yes,Chennai, Tamil Nadu
+1093,Yamaha,Yamaha R15 V4,2021.0,120000.0,Yes,"Andheri, Mumbai", Maharashtra
+1095,Honda,Honda CB350 DLX Pro,2023.0,180000.0,Yes,"Kalyan, Thane", Maharashtra
+1096,Honda,Honda XBlade BS6,2020.0,70000.0,Yes,Chennai, Tamil Nadu
+1097,Honda,Honda CB Unicorn 160,2016.0,35000.0,Yes,"Amberpet, Hyderabad", Telangana
+1098,Suzuki,Suzuki Access 125 CBS,2019.0,50000.0,Yes,Navi Mumbai, Maharashtra
+1099,Royal Enfield,Royal Enfield Thunderbird 350,2013.0,65000.0,Yes,"Bellandur, Bangalore", Karnataka
+1100,BMW,BMW G 310 RR,2023.0,270000.0,Yes,New Delhi, Delhi
+1101,TVS,TVS NTORQ 125,2022.0,72000.0,Yes,"Kalna, Bardhaman", West Bengal
+1102,Ola Electric,Ola S1,2023.0,115000.0,Yes,"Marathahalli, Bangalore", Karnataka
+1103,Yamaha,Yamaha FZ-S,2021.0,70000.0,Yes,Khammam, Telangana
+1104,Honda,Honda CBR 250R ABS,2015.0,46000.0,Yes,Ahmedabad, Gujarat
+1106,Suzuki,Suzuki Avenis 125 Standard Edition,2024.0,75000.0,Yes,Faridabad, Haryana
+1108,Honda,Honda CB Unicorn 160,2018.0,75000.0,Yes,"Hebbal, Bangalore", Karnataka
+1109,TVS,TVS Apache RTR 200 4V ABS,2020.0,100000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+1110,Honda,Honda Grazia,2018.0,50000.0,Yes,"Bally, Howrah", West Bengal
+1111,Hero,Hero Xtreme,2013.0,35000.0,Yes,Rewa, Madhya Pradesh
+1112,Royal Enfield,Royal Enfield Thunderbird 350,2016.0,95000.0,Yes,Hyderabad, Telangana
+1113,Bajaj,Bajaj Pulsar 220F,2014.0,35000.0,Yes,"Hadapsar, Pune", Maharashtra
+1114,Royal Enfield,Royal Enfield Meteor 350 Supernova,2021.0,210000.0,Yes,Pune, Maharashtra
+1115,Jawa,Jawa 42 Dual Tone,2021.0,130000.0,Yes,Hyderabad, Telangana
+1116,Hero,Hero Passion Pro,2013.0,32000.0,Yes,Pune, Maharashtra
+1117,Yamaha,Yamaha FZ-X,2023.0,100000.0,Yes,Hyderabad, Telangana
+1118,Ola Electric,Ola S1 Pro Gen2,2025.0,135000.0,Yes,"Deoband, Saharanpur", Uttar Pradesh
+1119,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,185000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+1120,Yamaha,Yamaha FZ-S FI V3 BS6,2020.0,75000.0,Yes,"Mulund West, Mumbai", Maharashtra
+1121,Yamaha,Yamaha YZF R15 V2,2017.0,55000.0,Yes,"Dhanpuri, Shahdol", Madhya Pradesh
+1122,Bajaj,Bajaj Pulsar AS 150,2015.0,33000.0,Yes,Bhubaneshwar, Orissa
+1123,KTM,KTM Duke 125 2022,2022.0,160000.0,Yes,"Ameenpur, Sangareddy", Telangana
+1124,Hero,Hero CBZ Xtreme,2010.0,26000.0,Yes,"Kalyan, Thane", Maharashtra
+1125,Honda,Honda Shine 125,2019.0,40000.0,Yes,Ghaziabad, Uttar Pradesh
+1126,Ola Electric,Ola S1 Pro Gen2,2024.0,135000.0,Yes,Hyderabad, Telangana
+1127,Yamaha,Yamaha YZF R15 V3 BS6,2022.0,125000.0,Yes,"Shikohabad, Firozabad", Uttar Pradesh
+1129,TVS,TVS Apache RTR 160 4V 2025,2025.0,145000.0,Yes,Mumbai, Maharashtra
+1130,Yamaha,Yamaha YZF R15,2022.0,120000.0,Yes,Chennai, Tamil Nadu
+1131,Yamaha,Yamaha FZS 25,2019.0,75000.0,Yes,"BTM Layout, Bangalore", Karnataka
+1132,Ola Electric,Ola S1 Pro Gen2,2024.0,120000.0,Yes,Kolkata, West Bengal
+1133,Bajaj,Bajaj Pulsar 200 NS,2013.0,34500.0,Yes,Gurgaon, Haryana
+1134,Triumph,Triumph Speed 400 2025,2025.0,240000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1135,Triumph,Triumph Scrambler 400 X,2025.0,325000.0,Yes,Hyderabad, Telangana
+1136,Royal Enfield,Royal Enfield Bullet Standard 500,2016.0,75000.0,Yes,"Dwarka, South West Delhi", Delhi
+1137,TVS,TVS Raider Split Seat,2022.0,75000.0,Yes,Gurgaon, Haryana
+1138,Oben Electric,Oben EV Rorr EZ 2025,2025.0,125000.0,Yes,"Rohini, North West Delhi", Delhi
+1139,Honda,Honda Activa 125 BS6,2024.0,70000.0,Yes,Noida, Uttar Pradesh
+1141,KTM,KTM Duke 200 ABS,2023.0,165000.0,Yes,Bangalore, Karnataka
+1142,Bajaj,Bajaj Pulsar F250,2022.0,100000.0,Yes,Gorakhpur, Uttar Pradesh
+1143,Ather Energy,Ather 450X Gen 3,2023.0,140000.0,Yes,"Ghatkopar, Mumbai", Maharashtra
+1145,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022.0,100000.0,Yes,Visakhapatnam, Andhra Pradesh
+1146,Hero,Hero Electric Photon LP,2021.0,30000.0,Yes,"Keeranur, Pudukkottai", Tamil Nadu
+1147,Yamaha,Yamaha R15 V4,2022.0,180000.0,Yes,"HSR Layout, Bangalore", Karnataka
+1148,Honda,Honda Activa,2018.0,63000.0,Yes,"Dera Bassi, Mohali", Punjab
+1149,Ola Electric,Ola S1X Plus,2024.0,60000.0,Yes,"Badlapur, Thane", Maharashtra
+1150,Bajaj,Bajaj CT 100,2016.0,30000.0,Yes,"Sanganer, Jaipur", Rajasthan
+1151,Ola Electric,Ola S1 Pro,2023.0,140000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+1152,TVS,TVS Apache RTR 160,2008.0,19000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1153,Jawa,Jawa forty two BS6,2021.0,120000.0,Yes,"Karawal Nagar, North East Delhi", Delhi
+1154,TVS,TVS Jupiter BS6,2022.0,58000.0,Yes,"Greater Noida, Gautam Buddha Nagar", Uttar Pradesh
+1155,TVS,TVS Sport,2022.0,45000.0,Yes,"Chhainsa, Faridabad", Haryana
+1156,Jawa,Jawa 350,2024.0,205000.0,Yes,Bangalore, Karnataka
+1157,Yamaha,Yamaha Rajdoot,1972.0,60000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+1158,Kabira Mobility,Kabira Mobility KM 4000,2023.0,90000.0,Yes,"Chembur, Mumbai", Maharashtra
+1159,Bajaj,Bajaj Avenger Street 150,2017.0,30000.0,Yes,"Andheri East, Mumbai", Maharashtra
+1160,Aprilia,Aprilia SR 160 Carbon ABS,2020.0,75000.0,Yes,Katni, Madhya Pradesh
+1162,Hero,Hero Duet 110,2017.0,32000.0,Yes,Pune, Maharashtra
+1163,Hero,Hero CBZ Xtreme,2014.0,40000.0,Yes,Bangalore, Karnataka
+1164,Bajaj,Bajaj Pulsar RS 200 ABS,2016.0,65000.0,Yes,Gurgaon, Haryana
+1165,Hero,Hero Splendor Plus,2023.0,58000.0,Yes,Surat, Gujarat
+1166,Benelli,Benelli Imperiale 400,2021.0,140000.0,Yes,"Electronic City, Bangalore", Karnataka
+1167,Bajaj,Bajaj Platina 100,2014.0,15000.0,Yes,"Kanjhawala, North West Delhi", Delhi
+1168,Bajaj,Bajaj Pulsar 220 DTSi,2018.0,50000.0,Yes,Aurangabad, Maharashtra
+1169,Bajaj,Bajaj Avenger Street 220,2017.0,50000.0,Yes,"Kurla West, Mumbai", Maharashtra
+1170,Hero,Hero Passion XTec,2023.0,65000.0,Yes,"Tirumalagiri, Hyderabad", Telangana
+1171,Honda,Honda CB Trigger,2014.0,23000.0,Yes,Hyderabad, Telangana
+1172,Bajaj,Bajaj Dominar 250,2020.0,120000.0,Yes,"Sanwer, Indore", Madhya Pradesh
+1173,Royal Enfield,Royal Enfield Classic 350,2012.0,115000.0,Yes,Vijayawada, Andhra Pradesh
+1174,Royal Enfield,Royal Enfield Himalayan 452,2021.0,175000.0,Yes,"Jogeshwari, Mumbai", Maharashtra
+1175,Husqvarna,Husqvarna Svartpilen 250,2020.0,150000.0,Yes,Bangalore, Karnataka
+1176,Yamaha,Yamaha SZ-R,2013.0,15000.0,Yes,"Velachery, Chennai", Tamil Nadu
+1177,Yamaha,Yamaha FZ-S FI V3,2019.0,65000.0,Yes,Chennai, Tamil Nadu
+1178,Yamaha,Yamaha FZ-S,2013.0,35000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+1179,Hero,Hero Xtreme 125R,2024.0,80000.0,Yes,Vijayawada, Andhra Pradesh
+1180,Bajaj,Bajaj Platina 100 ES,2016.0,25000.0,Yes,Sirsa, Haryana
+1181,TVS,TVS Raider SX,2024.0,100000.0,Yes,Surat, Gujarat
+1182,TVS,TVS NTORQ 125,2021.0,45000.0,Yes,West Delhi, Delhi
+1183,Honda,Honda Shine 125 Drum,2022.0,70000.0,Yes,Thane, Maharashtra
+1184,TVS,TVS Apache RTR 160,2016.0,21000.0,Yes,"Goregaon, Mumbai", Maharashtra
+1185,Honda,Honda Activa,2012.0,30000.0,Yes,Belgaum, Karnataka
+1186,TVS,TVS Ronin TD Special Edition,2025.0,170000.0,Yes,Bangalore, Karnataka
+1187,Honda,Honda Activa 125,2021.0,75000.0,Yes,"Nakodar, Jalandhar", Punjab
+1189,Ola Electric,Ola S1 Pro,2024.0,90000.0,Yes,"Hadapsar, Pune", Maharashtra
+1190,Honda,Honda Activa 5G,2018.0,40000.0,Yes,Bharuch, Gujarat
+1191,Royal Enfield,Royal Enfield Classic Signals Airborne Blue,2023.0,175000.0,Yes,Mysore, Karnataka
+1192,Royal Enfield,Royal Enfield Classic 500,2014.0,110000.0,Yes,"Amberpet, Hyderabad", Telangana
+1193,Bajaj,Bajaj Avenger Cruise 220,2015.0,25000.0,Yes,"Kandivali, Mumbai", Maharashtra
+1194,TVS,TVS Apache RTR 180 BS6,2021.0,80000.0,Yes,Bahraich, Uttar Pradesh
+1195,Yamaha,Yamaha R15 V4,2022.0,125000.0,Yes,"Golconda, Hyderabad", Telangana
+1196,Komaki Electric,KOMAKI XGT X5,2025.0,106000.0,Yes,Nizamabad, Telangana
+1197,Jawa,Jawa Perak,2020.0,120000.0,Yes,Bhopal, Madhya Pradesh
+1198,TVS,TVS Jupiter Classic BS6,2023.0,70000.0,Yes,"Nagod, Satna", Madhya Pradesh
+1199,Triumph,Triumph Speed 400 2025,2025.0,240000.0,Yes,"Zirakpur, Mohali", Punjab
+1200,Hero,Hero Glamour Xtec,2021.0,65000.0,Yes,Bokaro, Jharkhand
+1201,Yamaha,Yamaha FZ-X,2024.0,145000.0,Yes,Ranchi, Jharkhand
+1202,Okinawa,Okinawa Praise Pro,2022.0,35000.0,Yes,Gaya, Bihar
+1203,Honda,Honda CB Unicorn,2016.0,50000.0,Yes,Surat, Gujarat
+1204,Royal Enfield,Royal Enfield Hunter 350 Metro,2024.0,185000.0,Yes,Hyderabad, Telangana
+1205,Honda,Honda Activa 4G,2017.0,35000.0,Yes,Kolkata, West Bengal
+1206,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2023.0,130000.0,Yes,"Marathahalli, Bangalore", Karnataka
+1207,Yamaha,Yamaha FZS 25 BS6,2021.0,120000.0,Yes,Navi Mumbai, Maharashtra
+1208,Honda,Honda Activa 125,2023.0,80000.0,Yes,Chennai, Tamil Nadu
+1209,Hero,Hero Maestro Edge 110 BS6,2017.0,38000.0,Yes,Pune, Maharashtra
+1210,TVS,TVS Jupiter ZX,2022.0,70000.0,Yes,New Delhi, Delhi
+1211,Yamaha,Yamaha Fazer FI V2,2016.0,40000.0,Yes,"Bandra East, Mumbai", Maharashtra
+1212,TVS,TVS NTORQ 125 XT,2023.0,110000.0,Yes,Bangalore, Karnataka
+1213,Bajaj,Bajaj Pulsar NS 125,2023.0,80000.0,Yes,"Hebbal, Bangalore", Karnataka
+1214,Jawa,Jawa forty two BS6,2020.0,129000.0,Yes,Rewari, Haryana
+1215,TVS,TVS Sport,2014.0,18000.0,Yes,"Siswa Bazar, Maharajganj", Uttar Pradesh
+1216,Bajaj,Bajaj Avenger Street 160 BS6,2022.0,75000.0,Yes,Solapur, Maharashtra
+1217,Bajaj,Bajaj Pulsar RS 200 ABS,2017.0,95000.0,Yes,"Sarjapur Road, Bangalore", Karnataka
+1218,Revolt Motors,Revolt RV 400,2022.0,90000.0,Yes,"Perambur, Chennai", Tamil Nadu
+1219,TVS,TVS Apache RTR 200 4V ABS,2020.0,80000.0,Yes,"Sholinganallur, Chennai", Tamil Nadu
+1220,Benelli,Benelli Imperiale 400 BS6,2022.0,200000.0,Yes,Mumbai, Maharashtra
+1221,Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2023.0,200000.0,Yes,Pune, Maharashtra
+1222,Hero,Hero Maestro,2015.0,28500.0,Yes,Ambala, Haryana
+1223,KTM,KTM Duke 200,2016.0,100000.0,Yes,"Vikhroli, Mumbai", Maharashtra
+1224,Hero,Hero Destini 125 VX,2021.0,50000.0,Yes,Giridih, Jharkhand
+1225,Hero,Hero Pleasure,2011.0,25000.0,Yes,Lucknow, Uttar Pradesh
+1226,Hero,Hero Glamour 125 Drum,2017.0,35000.0,Yes,"Dwarka, South West Delhi", Delhi
+1227,Royal Enfield,Royal Enfield Classic 350 Single Channel BS6,2020.0,140000.0,Yes,South Delhi, Delhi
+1228,KTM,KTM Duke 200 2022,2022.0,170000.0,Yes,"Aruppukkottai, Virudhunagar", Tamil Nadu
+1229,Yamaha,Yamaha FZ-X,2023.0,90000.0,Yes,"Ambattur, Chennai", Tamil Nadu
+1230,TVS,TVS Raider 125,2023.0,80000.0,Yes,Aurangabad, Maharashtra
+1231,Ola Electric,Ola S1 Pro Gen 3 4kWh,2025.0,130000.0,Yes,"Rahata, Ahilyanagar", Maharashtra
+1232,Bajaj,Bajaj V15,2017.0,35000.0,Yes,Gandhinagar, Gujarat
+1233,Ola Electric,Ola S1,2022.0,95000.0,Yes,Pimpri-Chinchwad, Maharashtra
+1234,Hero,Hero Splendor Plus Xtec,2022.0,65000.0,Yes,"Mayur Vihar, East Delhi", Delhi
+1236,Suzuki,Suzuki Gixxer 150,2015.0,38000.0,Yes,Navi Mumbai, Maharashtra
+1237,TVS,TVS Apache RTR 160 2025,2025.0,130000.0,Yes,Madhepura, Bihar
+1238,Bajaj,Bajaj Avenger Street 160 BS6,2023.0,80000.0,Yes,"Bandra, Mumbai", Maharashtra
+1239,Honda,Honda CB Trigger,2014.0,30000.0,Yes,"Nakur, Saharanpur", Uttar Pradesh
+1240,KTM,KTM 390 Adventure,2020.0,280000.0,Yes,Bangalore, Karnataka
+1241,Vespa,Vespa SXL 125,2022.0,125000.0,Yes,Pune, Maharashtra
+1242,TVS,TVS Apache RTR 160 4V BS6,2020.0,100000.0,Yes,"Kanchrapara, North 24 Parganas", West Bengal
+1243,Honda,Honda CB350 DLX Pro,2024.0,205000.0,Yes,Ahmedabad, Gujarat
+1244,TVS,TVS Raider 125,2022.0,62000.0,Yes,"Valapady, Salem", Tamil Nadu
+1245,KTM,KTM Duke 390,2016.0,135000.0,Yes,"Yelahanka, Bangalore", Karnataka
+1246,Ola Electric,Ola S1 X Gen 3 2kWh,2025.0,90000.0,Yes,Rewari, Haryana
+1247,Suzuki,Suzuki Burgman Street Standard Edition 2025,2025.0,5000.0,Yes,Mumbai, Maharashtra
+1248,Bajaj,Bajaj Pulsar N160,2024.0,120000.0,Yes,"Chiplun, Ratnagiri", Maharashtra
+1249,Yamaha,Yamaha FZ-S FI V2,2019.0,65000.0,Yes,Bangalore, Karnataka
+1250,Bajaj,Bajaj Discover DTSi 125,2018.0,30000.0,Yes,Madhubani, Bihar
+1251,Royal Enfield,Royal Enfield Classic 500,2016.0,95000.0,Yes,Ranchi, Jharkhand
+1252,TVS,TVS Scooty Pep Plus,2021.0,30000.0,Yes,Didwana-Kuchaman, Rajasthan
+1253,Honda,Honda Shine 125,2022.0,65000.0,Yes,Saharanpur, Uttar Pradesh
+1254,Honda,Honda Activa 6G,2021.0,51000.0,Yes,Ghaziabad, Uttar Pradesh
+1255,Royal Enfield,Royal Enfield Meteor 350 Stellar,2023.0,210000.0,Yes,"Gandhi Nagar, East Delhi", Delhi
+1256,TVS,TVS Apache RTR 160 4V,2018.0,61000.0,Yes,Salem, Tamil Nadu
+1257,Honda,Honda SP 125 BSVI,2022.0,70000.0,Yes,Bokaro, Jharkhand
+1258,Aprilia,Aprilia SXR 125,2022.0,80000.0,Yes,"Malad, Mumbai", Maharashtra
+1259,Jawa,Jawa forty two,2020.0,125000.0,Yes,Hyderabad, Telangana
+1260,Bajaj,Bajaj Platina 110 H-Gear BS6,2021.0,55000.0,Yes,Pimpri-Chinchwad, Maharashtra
+1261,Royal Enfield,Royal Enfield Himalayan 452,2022.0,220000.0,Yes,Trivandrum, Kerala
+1262,Suzuki,Suzuki Gixxer SF SP,2018.0,55000.0,Yes,"Andheri West, Mumbai", Maharashtra
+1263,TVS,TVS Jupiter BS6,2021.0,75000.0,Yes,Kurnool, Andhra Pradesh
+1264,Evtric Motors,Evtric Ride,2023.0,85000.0,Yes,Bangalore, Karnataka
+1265,Royal Enfield,Royal Enfield Bullet Electra,2021.0,145000.0,Yes,Udupi, Karnataka
+1266,Royal Enfield,Royal Enfield Thunderbird X 500,2016.0,99999.0,Yes,"Velachery, Chennai", Tamil Nadu
+1267,Hero,Hero Glamour 125 Disc,2025.0,88000.0,Yes,North East Delhi, Delhi
+1268,Yamaha,Yamaha FZ FI V2,2019.0,45000.0,Yes,Kishanganj, Bihar
+1269,Royal Enfield,Royal Enfield Meteor 350 Stellar,2023.0,200000.0,Yes,Bankura, West Bengal
+1271,Bajaj,Bajaj Pulsar 150 DTSi,2014.0,24000.0,Yes,"Tigaon, Faridabad", Haryana
+1272,Royal Enfield,Royal Enfield Hunter 350 Retro,2024.0,160000.0,Yes,Bokaro, Jharkhand
+1273,Honda,Honda CB Unicorn,2014.0,60000.0,Yes,"Vasai-Virar, Palghar", Maharashtra
+1275,Yamaha,Yamaha MT-15 Ver 2.0,2023.0,145000.0,Yes,Kakinada, Andhra Pradesh
+1276,TVS,TVS Sport,2019.0,30000.0,Yes,Udaipur, Rajasthan
+1277,TVS,TVS Apache RTR 200 4V ABS Race Edition 2.0,2019.0,60000.0,Yes,"Parel, Mumbai", Maharashtra
+1278,Bajaj,Bajaj Pulsar NS 160,2021.0,85000.0,Yes,"Ameerpet, Hyderabad", Telangana
+1279,Yamaha,Yamaha Saluto 125,2016.0,30000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+1280,Royal Enfield,Royal Enfield Himalayan,2021.0,210000.0,Yes,Beed, Maharashtra
+1281,BMW,BMW G 310 R,2020.0,200000.0,Yes,Bellary, Karnataka
+1282,TVS,TVS Apache RTR 200 4V,2019.0,60000.0,Yes,"Ambattur, Chennai", Tamil Nadu
+1283,Royal Enfield,Royal Enfield Classic Signals Airborne Blue,2019.0,169000.0,Yes,"KR Puram, Bangalore", Karnataka
+1285,Yamaha,Yamaha RX 135,1997.0,40000.0,Yes,Lucknow, Uttar Pradesh
+1287,Jawa,Jawa forty two BS6,2020.0,145000.0,Yes,Pune, Maharashtra
+1288,Hero,Hero Glamour BS6,2020.0,52000.0,Yes,Araria, Bihar
+1289,Bajaj,Bajaj V12,2020.0,35000.0,Yes,"Huzur, Bhopal", Madhya Pradesh
+1290,Honda,Honda CB300F,2024.0,160000.0,Yes,Trivandrum, Kerala
+1291,Benelli,Benelli Imperiale 400,2022.0,160000.0,Yes,Hyderabad, Telangana
+1292,Benelli,Benelli TRK 502X,2021.0,500000.0,Yes,"Bahadurpura, Hyderabad", Telangana
+1293,Bajaj,Bajaj Chetak Premium,2021.0,65000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1294,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2022.0,170000.0,Yes,Varanasi, Uttar Pradesh
+1295,Honda,Honda Activa 6G H-smart,2024.0,90000.0,Yes,"Bagaha, West Champaran", Bihar
+1296,Hero,Hero XPulse 200T BS6,2021.0,85000.0,Yes,North 24 Parganas, West Bengal
+1297,Bajaj,Bajaj Pulsar 180 DTSi,2016.0,35000.0,Yes,Faridabad, Haryana
+1298,Bajaj,Bajaj Pulsar 220 DTSi,2013.0,45000.0,Yes,Mysore, Karnataka
+1299,Bajaj,Bajaj Pulsar 200 NS,2017.0,100000.0,Yes,Jaipur, Rajasthan
+1300,Honda,Honda CB Hornet 160R ABS,2016.0,35000.0,Yes,"Guindy, Chennai", Tamil Nadu
+1301,Royal Enfield,Royal Enfield Classic 350,2018.0,151000.0,Yes,"Ameerpet, Hyderabad", Telangana
+1303,Honda,Honda CB350 DLX Pro,2020.0,150000.0,Yes,Korea, Chhattisgarh
+1304,Bajaj,Bajaj Pulsar N160 Dual Channel ABS,2022.0,115000.0,Yes,Nadia, West Bengal
+1305,Ola Electric,Ola S1X 4 kWh,2025.0,120000.0,Yes,Jodhpur, Rajasthan
+1306,Honda,Honda Dio Standard,2014.0,30000.0,Yes,Surat, Gujarat
+1307,Hero,Hero HF Deluxe BS6,2022.0,45000.0,Yes,"Balramgarh, Faridabad", Haryana
+1308,Bajaj,Bajaj Pulsar 125,2022.0,70000.0,Yes,Chennai, Tamil Nadu
+1310,Yamaha,Yamaha FZ,2014.0,30000.0,Yes,Mumbai, Maharashtra
+1311,Yamaha,Yamaha RXZ,2002.0,120000.0,Yes,"Irinjalakuda, Thrissur", Kerala
+1312,Bajaj,Bajaj V15,2016.0,28000.0,Yes,Gurgaon, Haryana
+1313,Yamaha,Yamaha MT-15,2020.0,90000.0,Yes,Varanasi, Uttar Pradesh
+1314,Suzuki,Suzuki Burgman Street,2025.0,115000.0,Yes,"Charminar, Hyderabad", Telangana
+1315,Hero Cycles,Bicycle Keysto,2023.0,3000.0,No,Gautam Buddha Nagar, Uttar Pradesh
+1316,Hero,Hero Splendor Plus Xtec,2023.0,70000.0,Yes,Hyderabad, Telangana
+1317,Ather Energy,Ather 450X Gen 3,2025.0,187000.0,Yes,"Secunderabad, Hyderabad", Telangana
+1318,BSA,BSA Gold Star 650,2024.0,390000.0,Yes,"Whitefield, Bangalore", Karnataka
+1319,Yamaha,Yamaha R15M,2024.0,190000.0,Yes,Navi Mumbai, Maharashtra
+1320,Honda,Honda CBR 250R,2011.0,45000.0,Yes,Bangalore, Karnataka
+1321,Honda,Honda Activa,2011.0,20000.0,Yes,Lucknow, Uttar Pradesh
+1322,Royal Enfield,Royal Enfield Meteor 350 Fireball,2023.0,178000.0,Yes,Cuttack, Orissa
+1323,Bajaj,Bajaj Dominar 400 ABS BS6,2022.0,148000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+1324,Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2023.0,155000.0,Yes,"Hoskote, Bangalore", Karnataka
+1325,Yamaha,Yamaha Fascino,2016.0,30000.0,Yes,Kolhapur, Maharashtra
+1326,Yamaha,Yamaha Fazer 25,2018.0,55000.0,Yes,Pimpri-Chinchwad, Maharashtra
+1327,Bajaj,Bajaj Avenger Street 150,2017.0,35000.0,Yes,Ahmedabad, Gujarat
+1328,Royal Enfield,Royal Enfield Hunter 350 Metro,2024.0,165000.0,Yes,New Delhi, Delhi
+1329,Hero,Hero Maestro Edge,2018.0,30000.0,Yes,Hyderabad, Telangana
+1330,Yamaha,Yamaha FZ-S FI V2,2017.0,60000.0,Yes,"Shaikpet, Hyderabad", Telangana
+1331,Honda,Honda CB Shine,2010.0,30000.0,Yes,"Velachery, Chennai", Tamil Nadu
+1332,Jawa,Jawa 42 Dual Channel ABS Cosmic Carbon,2023.0,120000.0,Yes,Gautam Buddha Nagar, Uttar Pradesh
+1333,Hero,Hero Maestro Edge,2018.0,15000.0,Yes,"Mohanlalganj, Lucknow", Uttar Pradesh
+1334,Bajaj,Bajaj Pulsar 135LS,2011.0,18000.0,Yes,Kolkata, West Bengal
+1335,TVS,TVS Raider 125,2021.0,60000.0,Yes,Bhubaneshwar, Orissa
+1336,Royal Enfield,Royal Enfield Classic 350,2014.0,145000.0,Yes,Indore, Madhya Pradesh
+1337,Hero,Hero Electric Optima HX Dual Battery,2022.0,20000.0,Yes,Kolkata, West Bengal
+1338,Royal Enfield,Royal Enfield Himalayan 452,2024.0,300000.0,Yes,Guwahati, Assam
+1339,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,100000.0,Yes,Pune, Maharashtra
+1340,Ather Energy,Ather 450X,2022.0,55000.0,Yes,"Kundara, Kollam", Kerala
+1341,Bajaj,Bajaj Dominar 400,2023.0,190000.0,Yes,Jalandhar, Punjab
+1342,Yamaha,Yamaha MT-15 Ver 2.0,2024.0,140000.0,Yes,Hyderabad, Telangana
+1343,Suzuki,Suzuki Access 125,2017.0,35000.0,Yes,Bangalore, Karnataka
+1344,Yamaha,Yamaha FZ25,2017.0,80000.0,Yes,Bangalore, Karnataka
+1345,TVS,TVS Scooty Pep,2012.0,13000.0,Yes,"Hadapsar, Pune", Maharashtra
+1346,Hero,Hero Maestro,2015.0,19000.0,Yes,Ernakulam, Kerala
+1347,Ather Energy,Ather Rizta S,2024.0,105000.0,Yes,Gir Somnath, Gujarat
+1348,Royal Enfield,Royal Enfield Bullet Standard 350,2016.0,135000.0,Yes,"Yellareddy, Kamareddy", Telangana
+1349,Bajaj,Bajaj Avenger 220 DTS-i,2016.0,60000.0,Yes,Tikamgarh, Madhya Pradesh
+1350,TVS,TVS Jupiter ZX,2017.0,34999.0,Yes,"Delhi Cantonment, New Delhi", Delhi
+1351,TVS,TVS Ronin TD,2023.0,140000.0,Yes,Pune, Maharashtra
+1352,Bajaj,Bajaj Avenger Street 150,2017.0,55000.0,Yes,"Marathahalli, Bangalore", Karnataka
+1353,Honda,Honda 2023 Activa 125 Disc,2023.0,80000.0,Yes,Thane, Maharashtra
+1354,Suzuki,Suzuki Hayate,2012.0,10000.0,Yes,West Delhi, Delhi
+1355,Honda,Honda CB Unicorn,2019.0,70000.0,Yes,"Hadapsar, Pune", Maharashtra
+1356,TVS,TVS Apache RTR 160 4V,2020.0,60000.0,Yes,Udaipur, Rajasthan
+1357,Bajaj,Bajaj Pulsar F250,2022.0,140000.0,Yes,Udupi, Karnataka
+1358,Bajaj,Bajaj Avenger Street 180,2019.0,55000.0,Yes,"Kalyan, Thane", Maharashtra
+1359,Hero,Hero XPulse,2019.0,80000.0,Yes,"Chembur, Mumbai", Maharashtra
+1360,Hero,Hero Xpulse 200 4V,2022.0,95000.0,Yes,South West Delhi, Delhi
+1361,Bajaj,Bajaj Discover 100,2013.0,15000.0,Yes,New Delhi, Delhi
+1362,Hero,Hero XPulse 200T,2019.0,60000.0,Yes,Tiruvannamalai, Tamil Nadu
+1363,Ola Electric,Ola S1X Plus,2024.0,76000.0,Yes,Thane, Maharashtra
+1364,Revolt Motors,Revolt RV 400,2024.0,100000.0,Yes,Ghaziabad, Uttar Pradesh
+1365,Bajaj,Bajaj Avenger Street 150,2016.0,35000.0,Yes,Bokaro, Jharkhand
+1366,Royal Enfield,Royal Enfield Super Meteor 650,2024.0,450000.0,Yes,"Hubballi, Dharwad", Karnataka
+1367,Yezdi,Yezdi Roadster Dark,2022.0,165000.0,Yes,Rewari, Haryana
+1368,Honda,Honda CB350RS,2022.0,195000.0,Yes,Bangalore, Karnataka
+1369,Yamaha,Yamaha R15M,2023.0,150000.0,Yes,Hoshangabad, Madhya Pradesh
+1370,Royal Enfield,Royal Enfield Interceptor 650 Twin,2024.0,340000.0,Yes,Hyderabad, Telangana
+1371,Bajaj,Bajaj Freedom 125 NG04 Disc LED,2025.0,105000.0,Yes,Junagadh, Gujarat
+1372,Yamaha,Yamaha FZ-S,2013.0,40000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1373,TVS,TVS Raider Split Seat,2021.0,60000.0,Yes,"Domjur, Howrah", West Bengal
+1374,Honda,Honda Shine 125 Drum OBD2,2022.0,59999.0,Yes,"Bahadurpura, Hyderabad", Telangana
+1375,TVS,TVS Apache RTR 160 4V,2017.0,55000.0,Yes,Darbhanga, Bihar
+1377,Yamaha,Yamaha FZ-S FI Ver 4.0 DLX,2024.0,130000.0,Yes,Silvassa, Dadra Nagar Haveli
+1378,Royal Enfield,Royal Enfield Meteor 350,2021.0,170000.0,Yes,"Mubarakpur, Azamgarh", Uttar Pradesh
+1379,Royal Enfield,Royal Enfield Hunter 350 Metro,2024.0,200000.0,Yes,Dharwad, Karnataka
+1380,Jawa,Jawa 42 FJ,2024.0,180000.0,Yes,New Delhi, Delhi
+1381,Royal Enfield,Royal Enfield Continental GT 650,2025.0,380000.0,Yes,Bokaro, Jharkhand
+1383,Mahindra,Mahindra Flyte,2012.0,10000.0,Yes,"Marredpally, Hyderabad", Telangana
+1384,Bajaj,Bajaj Avenger 220 DTS-i,2015.0,40000.0,Yes,Mysore, Karnataka
+1386,Honda,Honda Activa DLX Limited Edition,2024.0,75000.0,Yes,"Egmore, Chennai", Tamil Nadu
+1387,BMW,BMW G 310 R,2019.0,200000.0,Yes,Thane, Maharashtra
+1388,Yamaha,Yamaha FZ-S FI V2,2016.0,50000.0,Yes,Bhubaneshwar, Orissa
+1389,TVS,TVS Zest 110 Gloss Series,2015.0,20000.0,Yes,"Berhampore, Murshidabad", West Bengal
+1390,Hero,Hero Passion Plus 2023,2023.0,75000.0,Yes,Thrissur, Kerala
+1391,TVS,TVS Sport BS6,2021.0,44500.0,Yes,Ghaziabad, Uttar Pradesh
+1392,Hero,Hero Hunk,2010.0,70000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1393,Honda,Honda Activa i,2014.0,20000.0,Yes,Gorakhpur, Uttar Pradesh
+1394,TVS,TVS Scooty Pep Plus,2018.0,29999.0,Yes,Bangalore, Karnataka
+1395,Yamaha,Yamaha FZ-S FI V2,2015.0,22000.0,Yes,"Delhi Cantonment, New Delhi", Delhi
+1396,TVS,TVS Apache RTR 160,2017.0,40000.0,Yes,"Shaikpet, Hyderabad", Telangana
+1397,Bajaj,Bajaj Chetak Premium,2024.0,120000.0,Yes,Indore, Madhya Pradesh
+1398,TVS,TVS Jupiter,2020.0,40000.0,Yes,Noida, Uttar Pradesh
+1399,Royal Enfield,Royal Enfield Classic 350,2016.0,95000.0,Yes,"Delhi Cantonment, New Delhi", Delhi
+1401,Hero,Hero Achiever,2017.0,45000.0,Yes,"Asansol, Paschim Bardhaman", West Bengal
+1403,TVS,TVS Apache RR 310,2023.0,245000.0,Yes,Pimpri-Chinchwad, Maharashtra
+1404,Honda,Honda Activa 5G,2020.0,55000.0,Yes,New Delhi, Delhi
+1405,Yamaha,Yamaha FZS 25,2021.0,102000.0,Yes,Tirupur, Tamil Nadu
+1406,Royal Enfield,Royal Enfield Super Meteor 650,2023.0,390000.0,Yes,Noida, Uttar Pradesh
+1407,TVS,TVS Apache RR 310,2023.0,210000.0,Yes,Gurgaon, Haryana
+1408,Royal Enfield,Royal Enfield Super Meteor 650,2024.0,410000.0,Yes,Amravati, Maharashtra
+1409,Suzuki,Suzuki Swish,2014.0,30000.0,Yes,Pune, Maharashtra
+1410,Royal Enfield,Royal Enfield Meteor 350 Stellar,2021.0,165000.0,Yes,"Dwarka, South West Delhi", Delhi
+1411,Royal Enfield,Royal Enfield Hunter 350 Metro,2023.0,185000.0,Yes,"Shaikpet, Hyderabad", Telangana
+1412,Simple Energy,Simple Energy One 2025,2025.0,175000.0,Yes,Bangalore, Karnataka
+1413,Royal Enfield,Royal Enfield Thunderbird TwinSpark 350,2011.0,60000.0,Yes,Pune, Maharashtra
+1414,Bajaj,Bajaj Discover 125M,2014.0,35000.0,Yes,"KR Puram, Bangalore", Karnataka
+1415,Honda,Honda Activa,2011.0,32000.0,Yes,Bangalore, Karnataka
+1416,Hero,Hero Glamour BS6,2021.0,65000.0,Yes,Saharsa, Bihar
+1417,Ather Energy,Ather 450X,2023.0,110000.0,Yes,Chennai, Tamil Nadu
+1418,Bajaj,Bajaj Pulsar 180 DTSi,2016.0,45000.0,Yes,Sitamarhi, Bihar
+1419,Bajaj,Bajaj Dominar 400 ABS BS6,2022.0,180000.0,Yes,Ramgarh, Jharkhand
+1420,TVS,TVS Victor,2017.0,36000.0,Yes,"Hindupur, Sri Sathya Sai", Andhra Pradesh
+1421,Hero,Hero Glamour 125 Drum,2011.0,40000.0,Yes,Kolkata, West Bengal
+1422,Suzuki,Suzuki Access 125 Bluetooth Enabled,2021.0,60000.0,Yes,"Mathili, Malkangiri", Orissa
+1423,Ola Electric,Ola S1 Pro Gen2,2024.0,100000.0,Yes,"Athani, Belgaum", Karnataka
+1424,Suzuki,Suzuki Gixxer SF BS6,2022.0,90000.0,Yes,"Gooty, Anantapur", Andhra Pradesh
+1425,Royal Enfield,Royal Enfield Bullet Electra,2021.0,145000.0,Yes,"Kumta, Uttara Kannada", Karnataka
+1426,Honda,Honda Shine 125 Drum,2020.0,65000.0,Yes,Palghar, Maharashtra
+1427,Yamaha,Yamaha MT-15 BS6,2024.0,175000.0,Yes,Mysore, Karnataka
+1428,Ola Electric,Ola S1 Pro,2022.0,90000.0,Yes,Alwar, Rajasthan
+1429,Hero,Hero Passion X Pro,2019.0,30000.0,Yes,New Delhi, Delhi
+1430,Honda,Honda Activa,2011.0,15000.0,Yes,"Thodupuzha, Idukki", Kerala
+1431,Royal Enfield,Royal Enfield Interceptor 650 Twin,2025.0,260000.0,Yes,"Nandakumar, Purba Medinipur", West Bengal
+1432,TVS,TVS Apache RTR 160 4V BS6,2020.0,69000.0,Yes,Tirupati, Andhra Pradesh
+1433,Royal Enfield,Royal Enfield Classic 350 Dual Channel BS6,2022.0,150000.0,Yes,Guwahati, Assam
+1434,TVS,TVS Scooty Streak,2013.0,20000.0,Yes,Chennai, Tamil Nadu
+1435,Bajaj,Bajaj Pulsar 150 DTSi,2012.0,25000.0,Yes,"Secunderabad, Hyderabad", Telangana
+1436,Honda,Honda CB Shine,2015.0,30000.0,Yes,"Bisalpur, Pilibhit", Uttar Pradesh
+1437,Komaki Electric,KOMAKI XGT X5,2025.0,40000.0,Yes,Mumbai, Maharashtra
+1439,Hero,Hero Maestro Edge 110 BS6,2016.0,36000.0,Yes,Bangalore, Karnataka
+1440,KTM,KTM Duke 200,2016.0,100000.0,Yes,Indore, Madhya Pradesh
+1441,Honda,Honda Hness CB 350,2022.0,170000.0,Yes,Kanpur, Uttar Pradesh
+1442,TVS,TVS NTORQ 125 Race Edition BS6,2024.0,93000.0,Yes,"Indiranagar, Bangalore", Karnataka
+1443,Ola Electric,Ola S1,2022.0,70000.0,Yes,Nagpur, Maharashtra
+1444,Yamaha,Yamaha R15 V4,2025.0,137000.0,Yes,Chengalpattu, Tamil Nadu
+1445,TVS,TVS Apache RTR 160 4V 2024,2024.0,120000.0,Yes,Lucknow, Uttar Pradesh
+1446,Royal Enfield,Royal Enfield Thunderbird 350,2018.0,100000.0,Yes,"Khairatabad, Hyderabad", Telangana
+1447,Hero,Hero Passion X Pro,2013.0,30000.0,Yes,"Dadar, Mumbai", Maharashtra
+1448,Yamaha,Yamaha FZ-S FI Ver 4.0,2023.0,115000.0,Yes,Gurgaon, Haryana
+1449,Royal Enfield,Royal Enfield Continental GT 650,2022.0,315000.0,Yes,Ghaziabad, Uttar Pradesh
+1450,KTM,KTM RC 200,2019.0,100000.0,Yes,"Itwa, Siddharthnagar", Uttar Pradesh
+1452,Royal Enfield,Royal Enfield Hunter 350 Metro,2024.0,172999.0,Yes,Ghaziabad, Uttar Pradesh
+1453,Hero,Hero Karizma XMR,2024.0,175000.0,Yes,Mumbai, Maharashtra
+1454,Bajaj,Bajaj Avenger Street 160,2019.0,55000.0,Yes,"Shaikpet, Hyderabad", Telangana
+1455,Suzuki,Suzuki V-Strom 650XT ABS BS6,2022.0,650000.0,Yes,"Nilambur, Malappuram", Kerala
+1456,Bajaj,Bajaj Platina 100 ES BS6,2022.0,45000.0,Yes,Hisar, Haryana
+1457,Royal Enfield,Royal Enfield Continental GT 650,2023.0,340000.0,Yes,"Secunderabad, Hyderabad", Telangana
+1458,Honda,Honda Livo 110,2019.0,35000.0,Yes,"Bhiwadi, Alwar", Rajasthan
+1459,TVS,TVS Apache RR 310,2023.0,220000.0,Yes,Bhagalpur, Bihar
+1460,KTM,KTM Duke 250,2023.0,170000.0,Yes,"Pataudi, Gurgaon", Haryana
+1461,Bajaj,Bajaj Avenger Cruise 220,2015.0,48500.0,Yes,"Electronic City, Bangalore", Karnataka
+1462,Honda,Honda CB Shine,2017.0,40000.0,Yes,Lucknow, Uttar Pradesh
+1463,Royal Enfield,Royal Enfield Classic 350,2016.0,129999.0,Yes,Bangalore, Karnataka
+1464,Hero,Hero CBZ Xtreme,2011.0,40000.0,Yes,"Hebbal, Bangalore", Karnataka
+1466,Honda,Honda CB Shine SP,2014.0,35000.0,Yes,"Alandur, Chennai", Tamil Nadu
+1467,Royal Enfield,Royal Enfield Bullet Electra,2014.0,97000.0,Yes,Jammu, Jammu Kashmir
+1468,Harley,Harley Davidson Street 750,2015.0,200001.0,Yes,Navi Mumbai, Maharashtra
+1469,Honda,Honda CB Trigger,2014.0,33000.0,Yes,Mumbai, Maharashtra
+1470,Triumph,Triumph Speed 400 2025,2025.0,310000.0,Yes,"Malad, Mumbai", Maharashtra
+1471,Royal Enfield,Royal Enfield Classic 500,2011.0,80000.0,Yes,West Delhi, Delhi
+1472,Honda,Honda Activa 6G Std,2023.0,65000.0,Yes,Kolkata, West Bengal
+1473,Royal Enfield,Royal Enfield Continental GT 650,2021.0,295000.0,Yes,Noida, Uttar Pradesh
+1474,Royal Enfield,Royal Enfield Interceptor 650 Twin,2019.0,290000.0,Yes,"HSR Layout, Bangalore", Karnataka
+1475,Aprilia,Aprilia SR 150,2016.0,35000.0,Yes,"Proddatur, Kadapa", Andhra Pradesh
+1476,Royal Enfield,Royal Enfield Thunderbird 350,2017.0,100000.0,Yes,"Pimpri-Chinchwad, Pune", Maharashtra
+1477,Hero,Hero Glamour Xtec,2023.0,65000.0,Yes,Noida, Uttar Pradesh
+1478,Honda,Honda Activa e,2025.0,105000.0,Yes,Bangalore, Karnataka
+1479,Jawa,Jawa 42 Bobber Dual Channel ABS,2023.0,160000.0,Yes,"Ambattur, Chennai", Tamil Nadu
+1480,Revolt Motors,Revolt RV 400,2020.0,60000.0,Yes,"Ameerpet, Hyderabad", Telangana
+1481,Hero,Hero Xtreme 250R,2025.0,200000.0,Yes,"Banashankari, Bangalore", Karnataka
+1482,KTM,KTM Duke,2017.0,130000.0,Yes,Chennai, Tamil Nadu
+1483,Royal Enfield,Royal Enfield Thunderbird 500,2014.0,90000.0,Yes,Noida, Uttar Pradesh
+1484,Suzuki,Suzuki Gixxer SF 250 BS6,2021.0,160000.0,Yes,Lucknow, Uttar Pradesh
+1485,Bajaj,Bajaj Pulsar 150 DTSi,2012.0,35000.0,Yes,Darbhanga, Bihar
+1486,Jawa,Jawa forty two BS6,2022.0,145000.0,Yes,Ambala, Haryana
+1487,TVS,TVS Raider Split Seat,2024.0,90000.0,Yes,"Bansgaon, Gorakhpur", Uttar Pradesh
+1488,Honda,Honda CB350 DLX Pro,2023.0,210000.0,Yes,Mangalore, Karnataka
+1489,Hero,Hero HF Deluxe,2019.0,25000.0,Yes,Agra, Uttar Pradesh
+1490,Royal Enfield,Royal Enfield Interceptor 650 Twin,2019.0,260000.0,Yes,"Bellandur, Bangalore", Karnataka
+1491,Honda,Honda CB Unicorn,2014.0,45000.0,Yes,Bangalore, Karnataka
+1492,Hero,Hero Glamour BS6,2022.0,75000.0,Yes,Kolkata, West Bengal
+1493,Suzuki,Suzuki Swish,2017.0,35000.0,Yes,Bangalore, Karnataka
+1494,KTM,KTM 250 Adventure 2021,2021.0,140000.0,Yes,Warangal, Telangana
+1495,Jawa,Jawa 42 Dual Channel ABS AllStar Black,2021.0,120000.0,Yes,New Delhi, Delhi
+1497,Bajaj,Bajaj Pulsar N150,2023.0,140000.0,Yes,Hyderabad, Telangana
+1498,Honda,Honda Hness Anniversary Edition,2022.0,180000.0,Yes,Pune, Maharashtra
+1499,TVS,TVS Apache RTR 180,2018.0,60000.0,Yes,"Bhota, Hamirpur", Himachal Pradesh
+1500,Hero,Hero Glamour 125 Disc,2021.0,55000.0,Yes,"Bijepur, Bargarh", Orissa
+1501,Yamaha,Yamaha R15 V4,2023.0,150000.0,Yes,Aurangabad, Maharashtra
+1502,Yamaha,Yamaha FZ-S FI V3 BS6,2021.0,80000.0,Yes,Hyderabad, Telangana
+1503,Kawasaki,Kawasaki Z250,2015.0,135000.0,Yes,"Tambaram, Chengalpattu", Tamil Nadu
+1504,Arrow EV,Arrow EV Vespar Round Light,2012.0,20000.0,Yes,Pune, Maharashtra
+1505,Hero,Hero Achiever,2019.0,51990.0,Yes,"Pipalda, Kota", Rajasthan
+1506,TVS,TVS NTORQ 125 Race XP,2023.0,60000.0,Yes,Hyderabad, Telangana
+1507,Royal Enfield,Royal Enfield Thunderbird 350,2016.0,90000.0,Yes,Indore, Madhya Pradesh
+1508,TVS,TVS Apache RTR 160 4V BS6,2022.0,95000.0,Yes,Gonda, Uttar Pradesh
+1509,Royal Enfield,Royal Enfield Interceptor 650 Twin,2020.0,225000.0,Yes,Bangalore, Karnataka
+1510,TVS,TVS NTORQ 125,2022.0,60000.0,Yes,Shahdara, Delhi
+1511,Yamaha,Yamaha FZ25,2018.0,50000.0,Yes,"Dadar, Mumbai", Maharashtra
+1512,BMW,BMW G 310 RR,2023.0,260000.0,Yes,Bhubaneshwar, Orissa
+1513,Hero,Hero Pleasure Plus Platinum,2021.0,48000.0,Yes,Ghaziabad, Uttar Pradesh
+1514,Yezdi,Yezdi Roadster Dark,2022.0,200000.0,Yes,Sikar, Rajasthan
+1515,Royal Enfield,Royal Enfield Bullet Electra Twinspark,2015.0,85500.0,Yes,Mumbai, Maharashtra
+1516,Royal Enfield,Royal Enfield Meteor 350 Stellar,2023.0,175000.0,Yes,"T. Nagar, Chennai", Tamil Nadu
+1517,TVS,TVS Apache RTR 200 4V,2016.0,60000.0,Yes,Noida, Uttar Pradesh
+1518,Hero,Hero Destini 125,2025.0,85000.0,Yes,"Secunderabad, Hyderabad", Telangana
+1519,TVS,TVS Jupiter,2015.0,20000.0,Yes,Gurgaon, Haryana
+1520,Hero,Hero Glamour Xtec,2022.0,65000.0,Yes,East Delhi, Delhi
+1521,Suzuki,Suzuki Access 125,2021.0,55000.0,Yes,"Kundapura, Udupi", Karnataka
+1522,Jawa,Jawa Jawa BS6,2021.0,165000.0,Yes,"Chinnasalem, Kallakurichi", Tamil Nadu
+1523,Suzuki,Suzuki Access 125 BS6,2018.0,60000.0,Yes,Pune, Maharashtra
+1524,TVS,TVS Jupiter,2015.0,30000.0,Yes,Chennai, Tamil Nadu
+1525,Suzuki,Suzuki V-Strom SX,2022.0,200000.0,Yes,Bangalore, Karnataka
+1526,Yamaha,Yamaha MT-15 Ver 2.0,2023.0,150000.0,Yes,Davangere, Karnataka
+1527,Hero,Hero Splendor Plus 2025,2025.0,85000.0,Yes,Ahmedabad, Gujarat
+1528,Bajaj,Bajaj Pulsar 150 DTSi,2013.0,40000.0,Yes,Indore, Madhya Pradesh
+1529,Bajaj,Bajaj Pulsar NS 160,2019.0,68000.0,Yes,"Panvel, Raigad", Maharashtra
+1530,Hero,Hero Super Splendor,2022.0,65000.0,Yes,"Parel, Mumbai", Maharashtra
+1531,Yamaha,Yamaha FZ25,2020.0,96000.0,Yes,Bangalore, Karnataka
+1532,Bajaj,Bajaj Pulsar NS 160,2018.0,52000.0,Yes,Visakhapatnam, Andhra Pradesh
+1533,Yamaha,Yamaha Cygnus Ray ZR,2016.0,35000.0,Yes,Nagpur, Maharashtra
+1534,Honda,Honda Activa 5G Limited Edition,2019.0,40000.0,Yes,"Balugaon, Khordha", Orissa
+1535,Royal Enfield,Royal Enfield Interceptor 650 Twin,2020.0,235000.0,Yes,"Chanakyapuri, New Delhi", Delhi
+1536,Honda,Honda Activa,2013.0,15000.0,Yes,"Wakad, Pune", Maharashtra
+1537,Yamaha,Yamaha Ray ZR 125 Fi Hybrid,2024.0,85000.0,Yes,"Mayur Vihar, East Delhi", Delhi
+1538,Honda,Honda CD 110 Dream,2019.0,40000.0,Yes,"Uklana Mandi, Hisar", Haryana
+1539,Aprilia,Aprilia SR 125,2019.0,45000.0,Yes,Kolkata, West Bengal
+1540,Honda,Honda SP 125 BSVI,2023.0,80000.0,Yes,Agra, Uttar Pradesh
+1542,Honda,Honda Unicorn,2011.0,20000.0,Yes,Chennai, Tamil Nadu
+1543,Royal Enfield,Royal Enfield Meteor 350 Stellar,2022.0,170000.0,Yes,"Anna Nagar, Chennai", Tamil Nadu
+1544,Bajaj,Bajaj Pulsar NS 125,2024.0,95000.0,Yes,Jamui, Bihar
+1545,TVS,TVS Victor Premium Edition,2020.0,38000.0,Yes,Sambhal, Uttar Pradesh
+1546,Jawa,Jawa forty two,2023.0,170000.0,Yes,"Hosapete, Vijayanagara", Karnataka
+1547,Honda,Honda Activa 125,2017.0,35000.0,Yes,"Bannerghatta Road, Bangalore", Karnataka
+1548,KTM,KTM Duke 200,2016.0,85000.0,Yes,Nashik, Maharashtra
+1549,Bajaj,Bajaj Chetak Electric,2024.0,80000.0,Yes,"Ameerpet, Hyderabad", Telangana
+1550,Jawa,Jawa 42 Dual Channel ABS Orion Red,2021.0,135000.0,Yes,South 24 Parganas, West Bengal
+1551,Yamaha,Yamaha FZ FI V3 BS6,2019.0,74000.0,Yes,Pune, Maharashtra
+1552,Royal Enfield,Royal Enfield Bullet 350,1982.0,125000.0,Yes,"Ranni, Pathanamthitta", Kerala
+1553,Honda,Honda Shine 125,2009.0,20000.0,Yes,"Bhavani, Erode", Tamil Nadu
+1554,Hero,Hero Super Splendor XTEC,2024.0,95000.0,Yes,"T. Nagar, Chennai", Tamil Nadu
+1555,Yamaha,Yamaha FZ-S FI V3,2024.0,130000.0,Yes,Coimbatore, Tamil Nadu
+1556,Hero,Hero Karizma R,2014.0,50000.0,Yes,Hyderabad, Telangana
+1557,Royal Enfield,Royal Enfield Classic 350,2015.0,80000.0,Yes,"Zaheerabad, Sangareddy", Telangana
+1558,TVS,TVS Apache RTR 160 4V,2018.0,55000.0,Yes,Bhopal, Madhya Pradesh
+1559,Hero,Hero CBZ Xtreme,2011.0,30000.0,Yes,"Bodhan, Nizamabad", Telangana
+1560,Bajaj,Bajaj Avenger Street 160,2019.0,36000.0,Yes,Ahmedabad, Gujarat
+1561,Bajaj,Bajaj Pulsar 220F BS6,2025.0,140000.0,Yes,Bardhaman, West Bengal
+1562,Bajaj,Bajaj Pulsar NS400,2024.0,200000.0,Yes,Hyderabad, Telangana
+1563,Yezdi,Yezdi Roadster Dual Tone,2023.0,185000.0,Yes,"Bhandup, Mumbai", Maharashtra
+1564,Okaya EV,Okaya Faast F2F,2023.0,50000.0,Yes,"Harhua, Varanasi", Uttar Pradesh
+1565,Yamaha,Yamaha MT-15 Ver 2.0,2023.0,140000.0,Yes,Hisar, Haryana
+1566,KTM,KTM Duke 390,2013.0,80000.0,Yes,"Hadapsar, Pune", Maharashtra
+1567,Triumph,Triumph Scrambler 400 X,2024.0,220000.0,Yes,Virudhunagar, Tamil Nadu
+1569,Deltic EV,Deltic Legion,2024.0,55000.0,Yes,Bardhaman, West Bengal
+1570,Royal Enfield,Royal Enfield Himalayan BS VI,2018.0,155000.0,Yes,Pune, Maharashtra
+1571,Hero Cycles,Bicycle Hero,2021.0,2000.0,No,Pune, Maharashtra
+1572,Bajaj,Bajaj Pulsar NS 160,2018.0,72000.0,Yes,Hyderabad, Telangana
+1573,Honda,Honda Activa,2016.0,40000.0,Yes,"Ulhasnagar, Thane", Maharashtra
+1574,Royal Enfield,Royal Enfield Thunderbird 350,2014.0,85000.0,Yes,New Delhi, Delhi
+1575,Hero,Hero Glamour 125 Disc,2018.0,50000.0,Yes,Ghaziabad, Uttar Pradesh
+1576,KTM,KTM RC 200,2019.0,130000.0,Yes,Pune, Maharashtra
+1577,Yamaha,Yamaha FZ FI V2,2018.0,60000.0,Yes,"Kherki Daula, Gurgaon", Haryana
+1578,Hero,Hero Duet 125,2019.0,20000.0,Yes,Gurgaon, Haryana
+1579,Royal Enfield,Royal Enfield Meteor 350 Supernova,2024.0,190000.0,Yes,"Daulatpur Chowk, Una", Himachal Pradesh
+1580,Bajaj,Bajaj Pulsar NS125 BS6,2023.0,70000.0,Yes,Hyderabad, Telangana
+1581,Royal Enfield,Royal Enfield Super Meteor 650,2025.0,432000.0,Yes,Jammu, Jammu Kashmir
+1582,Bajaj,Bajaj Pulsar AS 200,2015.0,45000.0,Yes,Allahabad, Uttar Pradesh
+1585,Bajaj,Bajaj Dominar 400,2018.0,175000.0,Yes,"Rajajinagar, Bangalore", Karnataka
+1586,Bajaj,Bajaj Pulsar NS125 BS6,2022.0,75000.0,Yes,Nashik, Maharashtra
+1587,Jawa,Jawa 42 Bobber Red Sheen,2023.0,189000.0,Yes,"Alandur, Chennai", Tamil Nadu
+1588,Honda,Honda Hness Anniversary Edition,2022.0,175000.0,Yes,"Dahisar, Mumbai", Maharashtra
+1589,Suzuki,Suzuki Avenis 125 Ride Connect Edition,2022.0,65000.0,Yes,Dehradun, Utarakhand
+1590,Suzuki,Suzuki Gixxer SF,2016.0,42000.0,Yes,"Bhiwandi, Thane", Maharashtra
+1591,TVS,TVS Apache RTR 160 4V,2018.0,62000.0,Yes,Kolkata, West Bengal
