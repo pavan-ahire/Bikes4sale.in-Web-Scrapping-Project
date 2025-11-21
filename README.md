@@ -11,6 +11,7 @@ The Indian used two-wheeler market is booming, with thousands of listings posted
 
 To fill this gap, I created a dataset **from scratch** through web scraping and used it to answer key market questions.
 
+  
 ### Why This Project Is Important
 - The automotive resale market is **data-driven**, yet publicly available insights are limited.  
 - Buyers often need guidance on **price fairness**, **brand reliability**, and **value retention**.  
@@ -116,6 +117,7 @@ The scraping process involved navigating 40 pages of live bike listings.
   
 ### 🧮 Before Cleaning (Raw Dataset)
 **1628 rows × 5 columns**
+<img width="600" height="300" alt="before" src="https://github.com/user-attachments/assets/042eb42c-2b20-4951-810f-8316392649e5" />
 
 #### Problems Found
 - Price had rupee signs, commas, and blank fields  
@@ -132,6 +134,7 @@ This stage required heavy preprocessing before any analysis.
 
 ## 🧼 After Cleaning (Final Dataset)
 **1501 rows × 9 columns**
+<img width="700" height="300" alt="after" src="https://github.com/user-attachments/assets/a56854d7-e8a3-4716-a078-bf04c90c9c1d" />
 
 ### ✔ All Fixes & Transformations
 - Removed 120+ duplicate entries  
